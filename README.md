@@ -201,12 +201,11 @@ The Data Analysis Life Cycle is a structured approach to extracting insights fro
 ETL is a process used to extract data from multiple sources, transform it into a standardized format, and load it into a target system, such as a data warehouse or database.
 
 ETL Process:
-
-- Extract: Gather data from various sources, including:
+  -  Extract: Gather data from various sources, including:
     - Databases 
     - Files 
     - Web scraping
--  Transform: Clean, convert, and format data into a standardized structure:
+  - Transform: Clean, convert, and format data into a standardized structure:
     - Data cleansing (handling missing values, duplicates)
     - Data conversion (data type, format)
     - Data aggregation (grouping, summarizing)
