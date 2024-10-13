@@ -3,13 +3,13 @@ Documentation of my first project at the incubator-hub
 
 # Basics of Data Analysis
 
-## What is Data Literacy
+### What is Data Literacy
 Data Literacy the ability to collect, analyze, interpret, and communicate data effectively. It involves having a basic understanding of data concept, statistical analysis, and data visualization.
 
-## Data Generation
+### Data Generation
 Data generation refers to the process of creating, collecting, or producing data through various methods.
 
-### Methods of Data Generation:
+#### Methods of Data Generation:
 1. Surveys and questionnaires
 2. Experiments and trials
 3. Observational studies
@@ -17,14 +17,14 @@ Data generation refers to the process of creating, collecting, or producing data
 5. Web scraping and many more
     
 
-### Types of Data Generation:
+#### Types of Data Generation:
 1. Primary data generation: Collecting original data through surveys, experiments, or observations.
 2. Secondary data generation: Analyzing existing data from external sources.
 
-## Data Structure
+### Data Structure
  data structure is a specialized format for organizing, processing, retrieving and storing data. There are 3 types of data structure 
 
-### 1. Structured Data
+#### 1. Structured Data
 Defined format and organization, making it easily searchable, machine-readable, and analyzable.
 Characteristics:
 1. Highly organized
@@ -35,7 +35,7 @@ Characteristics:
 
 
 
-### 2. Semi-Structured Data
+#### 2. Semi-Structured Data
 
 Some level of organization, but lacks strict formatting.
 Characteristics:
@@ -45,7 +45,7 @@ Characteristics:
 4. Still machine-readable
 5. May require parsing
 
-### 3. Unstructured Data
+#### 3. Unstructured Data
 
 Lacks organization and formatting, making analysis challenging.
 Characteristics:
@@ -59,19 +59,17 @@ Examples:
 Text documents (e.g., Word, PDF)  images,Videos,  Audio files, Social media posts,Emails e.t.c.
 
 
-## Data Storage
+### Data Storage
 Data storage refers to the devices, systems, and methods used to retain, protect, and retrieve digital data. Data can either be stored on cloud or in premises.
 
-### Cloud Storage:
+#### Cloud Storage:
 Definition: Storing data online, accessed through the internet.
 Examples:
-1. Amazon S3
-2. Google Cloud Storage
-3. Microsoft Azure Blob Storage
-4. Dropbox
-5. iCloud
+1. Google Cloud Storage
+2. Dropbox
+3. iCloud
 
-### On-Premises Storage:
+#### On-Premises Storage:
 Definition:_ Storing data locally, within an organization's premises.
 Examples:
 1. Hard disk drives 
@@ -80,17 +78,17 @@ Examples:
 4. Storage area networks
 5. Tape libraries
 
-## Data Analysis
+### Data Analysis
 Data analysis is the process of extracting insights and meaningful information from data.
 
-### Types of Data Analysis:
+#### Types of Data Analysis:
 
 1. Descriptive Analysis (summarizing data)
 2. Diagnostic Analysis (identifying causes)
 3. Predictive Analysis (forecasting outcomes)
 4. Prescriptive Analysis (recommending actions)
 
-### Data Analysis Steps:
+#### Data Analysis Steps:
 1. Problem Definition
 2. Data Collection
 3. Data Cleaning
@@ -101,7 +99,7 @@ Data analysis is the process of extracting insights and meaningful information f
 8. Recommendation
 
 
-### Data Analysis Tools:
+#### Data Analysis Tools:
 1. Excel
 2. Tableau
 3. Power BI
@@ -109,36 +107,36 @@ Data analysis is the process of extracting insights and meaningful information f
 5. SQL
 6. SPSS
 
-## Statistics
+### Statistics
 
 Statistics is the study of collection, analysis, interpretation, presentation, and organization of data.
 
-### Branches of Statistics:
+#### Branches of Statistics:
 
 1. Descriptive Statistics (summarizing data)
 2. Inferential Statistics (making conclusions about populations)
 3. Exploratory Data Analysis (identifying patterns)
 
 
-### Statistical Tools:
+#### Statistical Tools:
 1. Python (NumPy, Pandas)
 2. Excel
 3. SPSS
 4. SAS
 
 
-## Data-Driven Decision Making
+### Data-Driven Decision Making
 
 Data-Driven decision making is an approach to decision making that relies on data analysis and interpretation to inform and support decisions.
 
-### Key Principles:
+#### Key Principles:
 1. Data Collection
 2. Data Analysis
 3. Insight Generation
 4. Decision Making
 5. Continuous Monitoring and adjustment 
 
-### Benefits
+#### Benefits
 1. Improved Accuracy
 2. Enhanced Objectivity
 3. Increased Efficiency
@@ -160,60 +158,60 @@ Data-Driven decision making is an approach to decision making that relies on dat
 8. Monitor and Evaluate Outcomes
 
    
-## Data Analysis Life Cycle
+### Data Analysis Life Cycle
 
 The Data Analysis Life Cycle is a structured approach to extracting insights from data. It consists of six stages:
 
-### 1. Ingestion
+#### 1. Ingestion
 - Collecting and gathering data from various sources
 - Data sources: databases, files, APIs, web scraping
 - Data formats: CSV, JSON, Excel, text files
 
-### 2. Transformation
+#### 2. Transformation
 - Cleaning and preprocessing data for analysis
 - Handling missing values, outliers, and data normalization
 - Data transformation tools: Power BI, NumPy, SQL
 
-### 3. Modeling
+#### 3. Modeling
 
 - Developing statistical or machine learning models
 - Model types: regression, classification, clustering, neural networks
 
-### 4. Visualization
+#### 4. Visualization
 
 - Creating graphical representations of data insights
 - Visualization types: charts, plots, heatmaps, dashboards
 - Visualization tools: Seaborn, Tableau, Power BI
 
-### 5. Analysis
+#### 5. Analysis
 
 - Interpreting results and drawing conclusions
 - Identifying patterns, trends, and correlations
 - Analysis techniques: statistical inference, hypothesis testing
 
-### 6. Presentation
+#### 6. Presentation
 
 - Communicating findings to stakeholders
 - Presentation formats: reports, dashboards, slides, storytelling
 - Presentation tools: PowerPoint, Google Slides, Tableau
 
   
-## ETL (Extract, Transform, Load)
+### ETL (Extract, Transform, Load)
 
 ETL is a process used to extract data from multiple sources, transform it into a standardized format, and load it into a target system, such as a data warehouse or database.
 
 ETL Process:
 
-1. Extract: Gather data from various sources, including:
+- Extract: Gather data from various sources, including:
     - Databases 
     - Files 
     - Web scraping
-2. Transform: Clean, convert, and format data into a standardized structure:
+-  Transform: Clean, convert, and format data into a standardized structure:
     - Data cleansing (handling missing values, duplicates)
     - Data conversion (data type, format)
     - Data aggregation (grouping, summarizing)
     - Data merging (combining data from multiple sources)
-3. Load:  Load transformed data into the target system:
+-  Load:  Load transformed data into the target system:
     - Database 
     - Data warehouse
     - Cloud storage.
