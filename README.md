@@ -1,21 +1,23 @@
 # LITA CLASS DOCUMENTATION
 Documentation of my first project at the incubator-hub 
 
-#Basics of Data Analysis
+# Basics of Data Analysis
 
 ## What is Data Literacy
-It is the ability to collect, analyze, interpret, and communicate data effectively. It involves having a basic understanding of data concept, statistical analysis, and data visualization. 
+It is the ability to collect, analyze, interpret, and communicate data effectively. It involves having a basic understanding of data concept, statistical analysis, and data visualization.
+
 ## Data Generation
 Data generation refers to the process of creating, collecting, or producing data through various methods.
 
-###Methods of Data Generation:
+### Methods of Data Generation:
 1. Surveys and questionnaires
 2. Experiments and trials
 3. Observational studies
 4. Social media scraping
-5. Web scraping and many more 
+5. Web scraping and many more
+    
 
-Types of Data Generation:
+### Types of Data Generation:
 1. Primary data generation: Collecting original data through surveys, experiments, or observations.
 2. Secondary data generation: Analyzing existing data from external sources.
 
