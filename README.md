@@ -4,7 +4,7 @@ Documentation of my first project at the incubator-hub
 # Basics of Data Analysis
 
 ## What is Data Literacy
-It is the ability to collect, analyze, interpret, and communicate data effectively. It involves having a basic understanding of data concept, statistical analysis, and data visualization.
+Data Literacy the ability to collect, analyze, interpret, and communicate data effectively. It involves having a basic understanding of data concept, statistical analysis, and data visualization.
 
 ## Data Generation
 Data generation refers to the process of creating, collecting, or producing data through various methods.
@@ -74,10 +74,10 @@ Examples:
 ### On-Premises Storage:
 Definition:_ Storing data locally, within an organization's premises.
 Examples:
-1. Hard disk drives (HDD)
-2. Solid-state drives (SSD)
-3. Network-attached storage (NAS)
-4. Storage area networks (SAN)
+1. Hard disk drives 
+2. Solid-state drives 
+3. Network-attached storage 
+4. Storage area networks
 5. Tape libraries
 
 
