@@ -161,7 +161,7 @@ Data-Driven decision making is an approach to decision making that relies on dat
 ### Data Analysis Life Cycle
 
 The Data Analysis Life Cycle is a structured approach to extracting insights from data. It consists of six stages:
-![image alt](image_url)(https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/main/LITA%20png.png)
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/main/LITA%20png.png)
 
 #### 1. Ingestion
 - Collecting and gathering data from various sources
