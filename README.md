@@ -215,8 +215,49 @@ ETL Process:
     - Database 
     - Data warehouse
     - Cloud storage.
+ 
+###  Second LITA Class Documentation
+
+### Project Title: Sales Data Analysis
 
 
+#### Project Overview:
+This project involves analyzing sales data to provide insights into regional market trends, product performance, and revenue growth.
+
+#### Objective:
+
+- Identify top-performing regions, markets, and products.
+- Analyze sales trends over time.
+- Compare revenue and unit sales across different product lines.
+- Inform business decisions with data-driven insights.
+  
+
+#### Dataset:Sales data from various regions, markets, and stores.
+
+#### Tools Used:
+- Data manipulation and cleaning tools (e.g., Excel, Pivot Table)
+- GitHub for version control and collaboration.
+
+
+#### Potential Insights:
+
+- Which regions have the highest sales?
+- Which products are driving revenue growth?
+- How do sales trends vary by market and fiscal period?
+
+
+
+#### Dimensions 
+1. Region: Geographic area where sales occurred (e.g., North, South, East, West).
+2. Market: Specific market or industry 
+3. Store: Physical or online store location.
+4. Trade Date: Date of sales transaction.
+5. Fiscal Period: Financial reporting period (e.g., Quarter, Month, Year).
+6. Model: Product or service model 
+7. Line of Business: Category of products or services 
+8. Revenue: Total sales amount.
+9. Unit Sold: Number of units sold.
+10. Transaction Category: Type of sales transaction (e.g Low, Medium, High).
 
 
 
