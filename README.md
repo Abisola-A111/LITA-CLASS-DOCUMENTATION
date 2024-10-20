@@ -216,9 +216,9 @@ ETL Process:
     - Data warehouse
     - Cloud storage.
  
-###  Second LITA Class Documentation
+# Second LITA Class Documentation
 
-### Project Title: Sales Data Analysis
+## Project Title: Sales Data Analysis
 
 
 #### Project Overview:
