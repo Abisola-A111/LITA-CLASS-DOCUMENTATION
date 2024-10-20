@@ -259,6 +259,10 @@ This project involves analyzing sales data to provide insights into regional mar
 9. Unit Sold: Number of units sold.
 10. Transaction Category: Type of sales transaction (e.g Low, Medium, High).
 
-### Data Visualization and inferences 
+### Data Visualization and inferences
+
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/564076c59b27f10ec301856fd95eed99847c764b/IMG-20241018-WA0002_3.jpg)
+
+
 
 
