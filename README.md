@@ -259,5 +259,6 @@ This project involves analyzing sales data to provide insights into regional mar
 9. Unit Sold: Number of units sold.
 10. Transaction Category: Type of sales transaction (e.g Low, Medium, High).
 
+### Data Visualization and inferences 
 
 
