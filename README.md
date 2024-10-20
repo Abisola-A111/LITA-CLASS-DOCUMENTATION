@@ -262,6 +262,7 @@ This project involves analyzing sales data to provide insights into regional mar
 ### Data Visualization and inferences
 
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/564076c59b27f10ec301856fd95eed99847c764b/IMG-20241018-WA0002_3.jpg)
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/f088b3913c8fe231d4d29ef902d65ef043b98071/IMG-20241018-WA0002_2.jpg)
 
 
 
