@@ -271,6 +271,8 @@ This project involves analyzing sales data to provide insights into regional mar
 
 ## Inferences:
  Decline in Market Demand: The decrease in sales from 2014 to 2015 may indicate a decline in market demand, suggesting a need to reassess target markets or customer needs. It could also be attributed to increased competition, requiring a review of pricing strategies, product offerings, or marketing efforts.
+
+![image alt]( https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/c33edda15a3acde621929e28f9c9342b9ec16849/IMG-20241018-WA0018.jpg)
  
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/564076c59b27f10ec301856fd95eed99847c764b/IMG-20241018-WA0002_3.jpg)
 
