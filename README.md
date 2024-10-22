@@ -1,5 +1,5 @@
 # LITA CLASS DOCUMENTATION
-Documentation of my first project at the incubator-hub 
+Documentations of my project at the incubator-hub 
 
 ## Project Overview
 [First LITA Class Documentation](#first-lita-class-documentation)
