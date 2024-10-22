@@ -259,11 +259,13 @@ This project involves analyzing sales data to provide insights into regional mar
 9. Unit Sold: Number of units sold.
 10. Transaction Category: Type of sales transaction (e.g Low, Medium, High).
 
-### Data Visualization and inferences
+## Data Visualization and inferences
 
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/f088b3913c8fe231d4d29ef902d65ef043b98071/IMG-20241018-WA0002_2.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/e30cc6ebd8b970bf24486a35acd2c7033524987d/IMG-20241018-WA0011.jpg)
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/f088b3913c8fe231d4d29ef902d65ef043b98071/IMG-20241018-WA0002_2.jpg) ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/e30cc6ebd8b970bf24486a35acd2c7033524987d/IMG-20241018-WA0011.jpg)
+### Filter for year 2014
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/310c5c522a534cbbd49d3bae8404972ffc89be6b/IMG-20241018-WA0023.jpg)
+### fliter for year 2015
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/eed014e65d72282284524a496a096b3aef22e092/IMG-20241018-WA0022.jpg)
 
 ### Inferences:
  Decline in Market Demand: The decrease in sales from 2014 to 2015 may indicate a decline in market demand, suggesting a need to reassess target markets or customer needs. It could also be attributed to increased competition, requiring a review of pricing strategies, product offerings, or marketing efforts
