@@ -290,17 +290,26 @@ This project involves analyzing sales data to provide insights into regional mar
 
 
 
-## Top 5 Market by Revenue
+# Top 5 Markets by Revenue
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/9f2b091414ffc234b42f4931a8cb75dfcd142ae2/IMG-20241018-WA0015.jpg)
 
-## Top 10 Store by Revenue
-![image alt}(https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/62338af20a2ba24b67282df500c68b8283c5b923/IMG-20241018-WA0021.jpg)
+## Inferences:
+Ekiti, Abia, Bayelsa, Akwa Ibom, and Kogi's high revenue suggests they are economic hubs in their respective regions.
 
 
+# Top 10 Stores by Revenue
  ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/9a26e4e640fc25dd57ade65e25d0140c271f4c5b/IMG-20241018-WA0014.jpg)
 
+ ## Inferences:
+
+•	 Ankpa, Ajaokuta, and Arochukwu's high revenue indicates they are regional commerce hubs.
+•	Ekiti State Dominance: Two Ekiti-based stores (Ekiti South-East and Ekiti East) suggest strong market potential.
+•	Diversity in Store Locations: Presence of stores in various states (Kogi, Abia, Bayelsa, Ekiti, Bauchi, and Borno) indicates adaptability.
+•	Urban vs. Rural: Mix of urban (Ajaokuta, Ankpa) and rural (Arochukwu, Ekiti East) stores suggests a balanced market approach.
 
 
+
+![image alt}(https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/62338af20a2ba24b67282df500c68b8283c5b923/IMG-20241018-WA0021.jpg)
 
 
 
