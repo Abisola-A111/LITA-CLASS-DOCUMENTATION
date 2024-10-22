@@ -261,7 +261,7 @@ This project involves analyzing sales data to provide insights into regional mar
 
 # Data Visualization and inferences
 
-## Revenue By Unit Sold
+# Sum of Revenue by Region
 
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/f088b3913c8fe231d4d29ef902d65ef043b98071/IMG-20241018-WA0002_2.jpg)![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/e30cc6ebd8b970bf24486a35acd2c7033524987d/IMG-20241018-WA0011.jpg)
 # Filter for Year 2014
