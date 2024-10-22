@@ -303,13 +303,16 @@ Ekiti, Abia, Bayelsa, Akwa Ibom, and Kogi's high revenue suggests they are econo
  ## Inferences:
 
 •	 Ankpa, Ajaokuta, and Arochukwu's high revenue indicates they are regional commerce hubs.
+
 •	Ekiti State Dominance: Two Ekiti-based stores (Ekiti South-East and Ekiti East) suggest strong market potential.
+
 •	Diversity in Store Locations: Presence of stores in various states (Kogi, Abia, Bayelsa, Ekiti, Bauchi, and Borno) indicates adaptability.
+
 •	Urban vs. Rural: Mix of urban (Ajaokuta, Ankpa) and rural (Arochukwu, Ekiti East) stores suggests a balanced market approach.
 
 
 
-![image alt}(https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/62338af20a2ba24b67282df500c68b8283c5b923/IMG-20241018-WA0021.jpg)
+
 
 
 
