@@ -2,7 +2,7 @@
 Documentation of my first project at the incubator-hub 
 
 ## Project Overview
-[FIRST LITA CLASS DOCUMENTATIO](#first-lita-class-documentation)
+[First LITA Class Documentation](#first-lita-class-documentation)
 
 [Basics of Data Analysis](#basic-of-data-analysis)
 
