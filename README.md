@@ -261,7 +261,7 @@ This project involves analyzing sales data to provide insights into regional mar
 
 # Data Visualization and inferences
 
-# Sum of Revenue by Region
+## Sum of Revenue by Region For 2014/2015
 
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/f088b3913c8fe231d4d29ef902d65ef043b98071/IMG-20241018-WA0002_2.jpg)![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/e30cc6ebd8b970bf24486a35acd2c7033524987d/IMG-20241018-WA0011.jpg)
 # Filter for Year 2014
@@ -272,18 +272,30 @@ This project involves analyzing sales data to provide insights into regional mar
 ## Inferences:
  Decline in Market Demand: The decrease in sales from 2014 to 2015 may indicate a decline in market demand, suggesting a need to reassess target markets or customer needs. It could also be attributed to increased competition, requiring a review of pricing strategies, product offerings, or marketing efforts.
 
-![image alt]( https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/c33edda15a3acde621929e28f9c9342b9ec16849/IMG-20241018-WA0018.jpg)
- 
+ ## Line of Business by Unit Sold and Revenue
+
+ ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/9a26e4e640fc25dd57ade65e25d0140c271f4c5b/IMG-20241018-WA0014.jpg)
+ ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/ebd2c3a1980e892d1563de3ab607e27c2be0866d/IMG-20241018-WA0012.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/564076c59b27f10ec301856fd95eed99847c764b/IMG-20241018-WA0002_3.jpg)
 
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/4528198321a95820dbf8668e0319bebacbadbe4a/IMG-20241018-WA0006.jpg)
+## Inferences
+#### Parts Dominance: High Parts sales suggest a strong aftermarket presence, potential for upselling/cross-selling, and significant revenue contribution
+#### Service Plan Potential: High Service Plan sales indicate customers value maintenance/support, presenting opportunities for bundled offerings and recurring revenue.
+#### Copier Sales Strength: Robust Copier Sales suggest a good customer base, effective sales strategies, and potential for future upgrades/expansions.
+#### Printer Sales Opportunity: Lower Printer Sales may indicate untapped potential, warranting targeted marketing, improved product offerings, and strategic partnerships.
+
+
+
+
+
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/44df8252951f15de4dc6099a6a1aea99362a1cf1/IMG-20241018-WA0005.jpg)
 
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/ebd2c3a1980e892d1563de3ab607e27c2be0866d/IMG-20241018-WA0012.jpg)
+
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/1f6d33ff5223e72189567e870ab107f57023fd4c/IMG-20241018-WA0013.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/9a26e4e640fc25dd57ade65e25d0140c271f4c5b/IMG-20241018-WA0014.jpg)
+
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/9f2b091414ffc234b42f4931a8cb75dfcd142ae2/IMG-20241018-WA0015.jpg)
 ![image alt(https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/62338af20a2ba24b67282df500c68b8283c5b923/IMG-20241018-WA0021.jpg)
+
 
 
 
