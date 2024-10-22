@@ -2,15 +2,15 @@
 Documentation of my first project at the incubator-hub 
 
 ## Project Overview
-{FIRST LITA CLASS DOCUMENTATION}(#first-lita-class-documentation)
+[FIRST LITA CLASS DOCUMENTATIO](#first-lita-class-documentation)
 
-{Basics of Data Analysis}(#basic-of-data-analysis)
+[Basics of Data Analysis](#basic-of-data-analysis)
 
-{Second LITA Class Documentation}(#second-lita-class-documentation)
+[Second LITA Class Documentation](#second-lita-class-documentation)
 
-{Sales Data Analysis}(#sales-data-analysis)
+[Sales Data Analysis](#sales-data-analysis)
 
-{Data Visualization and inferences}(#data-visualization-and-inferences)
+[Data Visualization and inferences](#data-visualization-and-inferences)
 
 
 
