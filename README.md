@@ -276,8 +276,10 @@ This project involves analyzing sales data to provide insights into regional mar
  Decline in Market Demand: The decrease in sales from 2014 to 2015 may indicate a decline in market demand, suggesting a need to reassess target markets or customer needs. It could also be attributed to increased competition, requiring a review of pricing strategies, product offerings, or marketing efforts.
 
  ## Line of Business by Unit Sold and Revenue
+ ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/44df8252951f15de4dc6099a6a1aea99362a1cf1/IMG-20241018-WA0005.jpg)
 
 
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/1f6d33ff5223e72189567e870ab107f57023fd4c/IMG-20241018-WA0013.jpg)
 
 ## Inferences
 #### Parts Dominance: High Parts sales suggest a strong aftermarket presence, potential for upselling/cross-selling, and significant revenue contribution
@@ -288,13 +290,10 @@ This project involves analyzing sales data to provide insights into regional mar
 
 
 
-
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/44df8252951f15de4dc6099a6a1aea99362a1cf1/IMG-20241018-WA0005.jpg)
-
-
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/1f6d33ff5223e72189567e870ab107f57023fd4c/IMG-20241018-WA0013.jpg)
-
+## Top 5 Market by Revenue
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/9f2b091414ffc234b42f4931a8cb75dfcd142ae2/IMG-20241018-WA0015.jpg)
+
+## Top 10 Store by Revenue
 ![image alt}(https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/62338af20a2ba24b67282df500c68b8283c5b923/IMG-20241018-WA0021.jpg)
 
 
