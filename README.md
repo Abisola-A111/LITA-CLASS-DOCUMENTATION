@@ -265,6 +265,8 @@ This project involves analyzing sales data to provide insights into regional mar
 
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/e30cc6ebd8b970bf24486a35acd2c7033524987d/IMG-20241018-WA0011.jpg)
 
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/310c5c522a534cbbd49d3bae8404972ffc89be6b/IMG-20241018-WA0023.jpg)
+
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/564076c59b27f10ec301856fd95eed99847c764b/IMG-20241018-WA0002_3.jpg)
 
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/4528198321a95820dbf8668e0319bebacbadbe4a/IMG-20241018-WA0006.jpg)
