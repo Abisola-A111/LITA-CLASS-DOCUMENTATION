@@ -261,11 +261,15 @@ This project involves analyzing sales data to provide insights into regional mar
 
 ### Data Visualization and inferences
 
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/564076c59b27f10ec301856fd95eed99847c764b/IMG-20241018-WA0002_3.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/f088b3913c8fe231d4d29ef902d65ef043b98071/IMG-20241018-WA0002_2.jpg)
+
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/e30cc6ebd8b970bf24486a35acd2c7033524987d/IMG-20241018-WA0011.jpg)
+
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/564076c59b27f10ec301856fd95eed99847c764b/IMG-20241018-WA0002_3.jpg)
+
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/4528198321a95820dbf8668e0319bebacbadbe4a/IMG-20241018-WA0006.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/44df8252951f15de4dc6099a6a1aea99362a1cf1/IMG-20241018-WA0005.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/e30cc6ebd8b970bf24486a35acd2c7033524987d/IMG-20241018-WA0011.jpg)
+
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/ebd2c3a1980e892d1563de3ab607e27c2be0866d/IMG-20241018-WA0012.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/1f6d33ff5223e72189567e870ab107f57023fd4c/IMG-20241018-WA0013.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/9a26e4e640fc25dd57ade65e25d0140c271f4c5b/IMG-20241018-WA0014.jpg)
