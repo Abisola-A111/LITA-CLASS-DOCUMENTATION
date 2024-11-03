@@ -491,9 +491,41 @@ This project focuses on analyzing employee data from [LITA], covering various de
 4. Monitor and address potential skill gaps
 5. Foster a culture of innovation and collaboration to attract and retain top talent
 
-
+# Filtered data from Marketing:
 
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/37b842446a69f09af0016ae5a3add595a75a3cf6/IMG-20241103-WA0005.jpg)
+
+
+## Key Statistics:
+- Total Employees: 159
+- Attrition Count: 35
+- Current Employees: 124
+- Attrition Rate: 22%
+- Average Age: 38
+
+
+## Attrition by Department:
+Sales Department: Highest attrition count
+
+## Attrition by Educational Field:
+Marketing: Highest attrition count
+
+## Inferences:
+1. High Attrition Rate: With an attrition rate of 22%, Marketing is experiencing significant turnover, impacting team dynamics and productivity.
+
+
+2. Sales Department Challenges: High attrition in Sales may indicate:
+    - Intensive work environment
+    - Limited career growth opportunities
+    - Inadequate training or support
+
+4. Marketing Talent Loss: High attrition among marketing-educated employees may compromise:
+    - Brand knowledge
+    - Campaign continuity
+    - Creative expertise
+
+5. Potential Impact on Business Growth: High attrition rates in Marketing and Sales can hinder business development and revenue growth.
+
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/3e201eafce6f9728d4210d7e4ece2e27457ca112/IMG-20241103-WA0006.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/16b5101f6207859f4be9e974d7028d794c1b8e74/IMG-20241103-WA0007.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/90ce33a6ecc97868066a327bda83b5e9fce340ed/IMG-20241103-WA0008.jpg)
