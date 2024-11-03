@@ -363,6 +363,7 @@ Effectively utilized SQL arithmetic functions (SUM, AVG, MAX, MIN)  as well as r
  ## Analysis on HR DATA
 ![image alt]( https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/ac9383ac924fecf93edc92e3479675f98cc143f8/IMG-20241103-WA0003.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/0d4c55e9dacb1d50c5a9f52618c28c831ee817ca/IMG-20241103-WA0003.jpg)
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/52b96077fcb95165b8eb214a05625a5941a272c1/IMG-20241103-WA0004.jpg)
 
 
 
