@@ -321,6 +321,10 @@ Ekiti, Abia, Bayelsa, Akwa Ibom, and Kogi's high revenue suggests they are econo
 
 •	Urban vs. Rural: Mix of urban (Ajaokuta, Ankpa) and rural (Arochukwu, Ekiti East) stores suggests a balanced market approach.
 
+### SQL DOCUMENTATION
+ ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/b440a14692d436a67a64f3b3ee6d3aca0c2a779c/IMG-20241022-WA0008.jpg)
+
+
 ### sql
  ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/b348e7bee4645dfa112c37f3cdad8cf329ba8f6c/IMG-20241101-WA0000.jpg)
 ![image alt]( https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/129cbb6f1a7de5e25d5391b3684b8e4ff7904e75/IMG-20241101-WA0001.jpg)
