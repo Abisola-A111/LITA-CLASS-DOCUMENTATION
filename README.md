@@ -416,13 +416,6 @@ This project focuses on analyzing employee data from [LITA], covering various de
 4. Impact on Productivity: High attrition rates can disrupt team dynamics, reduce morale, and decrease productivity.
 5. Potential Skill Gap: The loss of experienced employees may lead to skill gaps, particularly if departing employees hold critical knowledge or expertise.
 
-### Recommendations: The folllowing recomendation will help the company to retain its employee
-
-1. Investigating reasons for attrition (e.g., exit interviews, surveys)
-2. Developing targeted retention strategies (e.g., training, mentorship, benefits)
-3. Implementing succession planning and knowledge transfer programs
-4. Monitoring and addressing potential skill gaps
-5. Analyzing demographics to identify patterns in attrition (e.g., age, department, job role)
 
 
 # Filtered data from Human Resources:
@@ -438,22 +431,14 @@ This project focuses on analyzing employee data from [LITA], covering various de
 
 ## Inferences:
 1. Aging Workforce_: The average age of 37 suggests an aging workforce, which may lead to:
-
     - Succession planning challenges
     - Knowledge transfer issues
     - Potential increases in retirement and healthcare costs
 
 2. Limited Talent Pool: With a small team size (27), Human Resources may face challenges in finding suitable replacements for departed employees.
-
 3. Potential Skill Gap: The loss of 7 employees may lead to skill gaps, particularly if departing employees held critical knowledge or expertise.
 
-## Recommendations:
 
-1. Investigate reasons for attrition (e.g., exit interviews, surveys)
-2. Develop targeted retention strategies (e.g., training, mentorship, benefits)
-3. Implement succession planning and knowledge transfer programs
-4. Monitor and address potential skill gaps
-5. Consider diversity and inclusion initiatives to attract a broader talent pool
    
 
 # Filtered data from Life Science:
@@ -472,24 +457,13 @@ This project focuses on analyzing employee data from [LITA], covering various de
 ## Inferences:
 
 1. Attrition Rate: With an attrition rate of 13.5%, Life Science is experiencing a relatively high attriton rate.
-
 2. Aging Workforce: The average age of 37 suggests an aging workforce, which may lead to:
-
     - Succession planning challenges
     - Knowledge transfer issues
     - Potential increases in retirement and healthcare costs
-
 3. Significant Loss of Talent: With 89 employees leaving, Life Science may face challenges in replacing critical skills and expertise.
-
 4. Potential Impact on Innovation: High attrition rates in Life Science can hinder research and development, impacting the organization's competitive edge.
 
-### Recommendations:
-
-1. Investigate reasons for attrition (e.g., exit interviews, surveys)
-2. Develop targeted retention strategies (e.g., training, mentorship, benefits)
-3. Implement succession planning and knowledge transfer programs
-4. Monitor and address potential skill gaps
-5. Foster a culture of innovation and collaboration to attract and retain top talent
 
 # Filtered data from Marketing:
 
@@ -511,25 +485,142 @@ Sales Department: Highest attrition count
 Marketing: Highest attrition count
 
 ## Inferences:
-1. High Attrition Rate: With an attrition rate of 22%, Marketing is experiencing significant turnover, impacting team dynamics and productivity.
-
+1. High Attrition Rate: With an attrition rate of 22%, Marketing is experiencing significant turnover, impacting team dynamics and productivity
 
 2. Sales Department Challenges: High attrition in Sales may indicate:
     - Intensive work environment
     - Limited career growth opportunities
     - Inadequate training or support
-
 4. Marketing Talent Loss: High attrition among marketing-educated employees may compromise:
     - Brand knowledge
     - Campaign continuity
     - Creative expertise
-
 5. Potential Impact on Business Growth: High attrition rates in Marketing and Sales can hinder business development and revenue growth.
 
+# Filtered Data from Medical:
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/3e201eafce6f9728d4210d7e4ece2e27457ca112/IMG-20241103-WA0006.jpg)
+
+## Key Statistics:
+- Total Employees: 464
+- Attrition Count: 63
+- Current Employees: 401
+- Attrition Rate: 14%
+- Average Age: 37
+
+## Attrition by Gender:
+ Male: Higher attrition count
+Female: Lower attrition count
+
+Inferences:
+
+1. Moderate Attrition Rate: With an attrition rate of 14%, Medical is experiencing a relatively moderate turnover.
+2. Aging Workforce: The average age of 37 suggests an aging workforce, which may lead to:
+
+    - Succession planning challenges
+    - Knowledge transfer issues
+    - Potential increases in retirement and healthcare costs
+
+3. Gender Disparity in Attrition: Males have a higher attrition rate, potentially indicating:
+
+    - Differences in job satisfaction or engagement
+    - Variations in career advancement opportunities
+    - Distinct workplace experiences or cultural factors
+
+4. Talent Loss: With 63 employees leaving, Medical may face challenges in replacing critical skills and expertise.
+
+5. Impact on Patient Care: High attrition rates in Medical can compromise patient care quality and continuity.
+
+# Filtered data from Others:
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/16b5101f6207859f4be9e974d7028d794c1b8e74/IMG-20241103-WA0007.jpg)
+
+##  Statistics:
+- Total Employees: 82
+- Attrition Count: 11
+- Current Employees: 71
+- Attrition Rate: 13%
+- Average Age: 35
+
+## Attrition by Gender:
+
+ Male: Higher attrition count
+ Female: Lower attrition count
+
+## Attrition by Department:
+- R&D: Highest attrition count
+- Sales: Moderate attrition count
+- HR: Lowest attrition count
+
+## Inferences:
+1. Moderate Attrition Rate: 13% attrition rate indicates some turnover, potentially impacting team dynamics
+2. Age and Experience: Average age of 35 suggests experienced employees are leaving.
+3. Gender Disparity: Males leaving at a higher rate may indicate:
+    - Differences in job satisfaction or engagement
+    - Variations in career advancement opportunities
+    - Distinct workplace experiences or cultural factors
+
+4. R&D Talent Loss: High attrition in R&D may compromise:
+
+    - Innovation capacity
+    - Product development
+    - Competitive edge
+
+5. Sales Impact: Moderate attrition in Sales may affect:
+    - Revenue growth
+    - Customer relationships
+    - Market share
+
+
+# Filtered data from Technical Degree:
+
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/90ce33a6ecc97868066a327bda83b5e9fce340ed/IMG-20241103-WA0008.jpg)
+
+
+## Key Statistics:
+- Total Employees: 132
+- Attrition Count: 32
+- Current Employees: 100
+- Attrition Rate: 24%
+- Average Age: 36
+
+## Inferences:
+
+1. High Attrition Rate: 24% attrition rate indicates significant turnover, potentially impacting team dynamics and productivity.
+2. Aging Workforce: Average age of 36 suggests experienced employees are leaving.
+3. Talent Loss: Technical expertise is being lost, potentially compromising:
+    - Project continuity
+    - Knowledge transfer
+    - Innovation capacity
+4. Recruitment Challenges: Replacing technical talent can be difficult and costly.
+5. Potential Impact on Business Operations: High attrition rates in technical roles can disrupt business operations and impact quality.
+
+# Attrition by Gender and Age Band:
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/c0d293abd867d098d54d5777e3666c215dd71ddf/IMG-20241103-WA0000.jpg)
+
+- All age bands: Male has the highest number
+
+## Inferences:
+1. Gender Disparity in Attrition: Males are leaving the organization at a higher rate across all age bands.
+2. Consistent Pattern: The trend of male dominance in attrition persists across various age groups.
+3. Potential Reasons:
+    - Differences in job satisfaction or engagement
+    - Variations in career advancement opportunities
+    - Distinct workplace experiences or cultural factors
+    - Work-life balance issues
+4. Impact on Diversity and Inclusion: Higher male attrition rates may affect organizational diversity and inclusion efforts.
+5. Talent Loss: Losing male employees across various age bands may compromise:
+
+    - Knowledge transfer
+    - Leadership development
+    - Innovation capacity
+
+     ### Recommendations: The folllowing recomendation will help the company to retain its employee
+
+1. Investigating reasons for attrition (e.g., exit interviews, surveys)
+2. Developing targeted retention strategies (e.g., training, mentorship, benefits)
+3. Implementing succession planning and knowledge transfer programs
+4. Monitoring and addressing potential skill gaps
+5. Analyzing demographics to identify patterns in attrition (e.g., age, department, job role)
+
 
 
 
