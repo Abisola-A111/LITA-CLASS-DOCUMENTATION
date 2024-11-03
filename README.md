@@ -365,6 +365,7 @@ Effectively utilized SQL arithmetic functions (SUM, AVG, MAX, MIN)  as well as r
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/0d4c55e9dacb1d50c5a9f52618c28c831ee817ca/IMG-20241103-WA0003.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/52b96077fcb95165b8eb214a05625a5941a272c1/IMG-20241103-WA0004.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/37b842446a69f09af0016ae5a3add595a75a3cf6/IMG-20241103-WA0005.jpg)
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/3e201eafce6f9728d4210d7e4ece2e27457ca112/IMG-20241103-WA0006.jpg)
 
 
 
