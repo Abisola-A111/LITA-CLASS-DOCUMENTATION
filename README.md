@@ -361,7 +361,69 @@ Effectively utilized SQL arithmetic functions (SUM, AVG, MAX, MIN)  as well as r
 
  # POWER BI
  ## Analysis on HR DATA
+
+## Title: Employee Attrition Analysis and Insights
+## Introduction
+Employee attrition is a significant concern for organizations, as it can lead to substantial costs, disruptions, and loss of talent. Understanding the factors contributing to attrition is crucial for developing effective retention strategies. This project aims to analyze employee attrition trends within an organization, identifying key drivers and demographics most impacted.
+
+## Project Overview
+This project will provide valuable insights to inform organizational decisions, improve employee retention, and reduce turnover costs.
+
+## Objective: To investigate employee attrition patterns, identify areas of concern, and provide data-driven recommendations for improving retention.
+
+## Scope:This project focuses on analyzing employee data from [Organization Name], covering various departments, job roles, genders, age bands, and educational fields.
+
+## Key Research Questions:
+
+1. What are the overall attrition rates and trends within the organization?
+2. Which departments, job roles, and demographics experience the highest attrition rates?
+3. What factors contribute to employee turnover (e.g., age, gender, job satisfaction, career advancement)?
+4. How do attrition rates vary across different educational fields.
+
+## Methodology:
+
+1. Data collection: Gather employee data (attrition rates, demographics, job roles, departments).
+2. Descriptive analysis: Examine attrition trends, demographics, and departmental distribution.
+3. Inferential analysis: Identify correlations and patterns between variables.
+4. Recommendations: Develop targeted retention strategies based on findings.
+
+##vExpected Outcomes:
+1. Comprehensive understanding of employee attrition trends.
+2. Identification of key drivers and demographics most impacted.
+3. Data-driven recommendations for improving retention.
+4. Enhanced organizational decision-making.
+
+
+
  ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/3ebe79f2e9c457f302af56d4b3f1994b2c597b6a/IMG-20241103-WA0001.jpg)
+### Key Statistics:
+- Total Employees: 1470
+- Attrition Count: 237
+- Current Staff: 1233
+- Attrition Rate: 16%
+- Average Age: 37
+
+### Inferences:
+
+1. High Attrition Rate: With an attrition rate of 16%, the organization is losing a significant portion of its workforce, indicating potential issues with employee satisfaction, engagement, or retention strategies.
+2. Aging Workforce: The average age of 37 suggests an aging workforce, which may lead to:
+    - Succession planning challenges
+    - Knowledge transfer issues
+    - Potential increases in retirement and healthcare costs
+3. Staff Turnover Costs: With 237 employees leaving, the organization likely incurs significant recruitment and training costs to replace them.
+4. Impact on Productivity: High attrition rates can disrupt team dynamics, reduce morale, and decrease productivity.
+5. Potential Skill Gap: The loss of experienced employees may lead to skill gaps, particularly if departing employees hold critical knowledge or expertise.
+
+### Recommendations: The folllowing recomendation will hrlp the company to retain its employee
+
+1. Investigating reasons for attrition (e.g., exit interviews, surveys)
+2. Developing targeted retention strategies (e.g., training, mentorship, benefits)
+3. Implementing succession planning and knowledge transfer programs
+4. Monitoring and addressing potential skill gaps
+5. Analyzing demographics to identify patterns in attrition (e.g., age, department, job role)
+
+
+
 ![image alt]( https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/ac9383ac924fecf93edc92e3479675f98cc143f8/IMG-20241103-WA0003.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/52b96077fcb95165b8eb214a05625a5941a272c1/IMG-20241103-WA0004.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/37b842446a69f09af0016ae5a3add595a75a3cf6/IMG-20241103-WA0005.jpg)
