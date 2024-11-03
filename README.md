@@ -326,6 +326,7 @@ Ekiti, Abia, Bayelsa, Akwa Ibom, and Kogi's high revenue suggests they are econo
  ![image alt]( https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/3681fdc91da052c6bffbcd2c45d24b9440288e34/IMG-20241022-WA0010.jpg)
  ![image alt]( https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/1d38c0a8f79ad523c927ef25a3e0ac45bfe94897/IMG-20241022-WA0011.jpg)
  ![image alt]( https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/77b7a7b92412c721a4fafb6654307ac080f50592/IMG-20241022-WA0012.jpg)
+ ![image alt](  https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/7463a59a937aa0ab2f172397e79a980e39c466b6/IMG-20241022-WA0013.jpg)
 
 
 ### sql
