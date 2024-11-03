@@ -425,11 +425,11 @@ This project focuses on analyzing employee data from [LITA], covering various de
 5. Analyzing demographics to identify patterns in attrition (e.g., age, department, job role)
 
 
-
+# Filtered data from Human Resources:
 ![image alt]( https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/ac9383ac924fecf93edc92e3479675f98cc143f8/IMG-20241103-WA0003.jpg)
 
-# Filter data from Human Resources:
-##3 Key Statistics:_
+
+## Key Statistics:_
 - Total Employees: 27
 - Attrition Count: 7
 - Current Employees: 20
@@ -454,9 +454,45 @@ This project focuses on analyzing employee data from [LITA], covering various de
 3. Implement succession planning and knowledge transfer programs
 4. Monitor and address potential skill gaps
 5. Consider diversity and inclusion initiatives to attract a broader talent pool
+   
 
-
+# Filtered data from Life Science:
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/52b96077fcb95165b8eb214a05625a5941a272c1/IMG-20241103-WA0004.jpg)
+
+
+
+## Key Statistics:
+
+- Total Employees: 660
+- Attrition Count: 89
+- Current Employees: 517 
+- Attrition Rate: 15% 
+- Average Age: 37
+
+## Inferences:
+
+1. Attrition Rate: With an attrition rate of 13.5%, Life Science is experiencing a relatively high attriton rate.
+
+2. Aging Workforce: The average age of 37 suggests an aging workforce, which may lead to:
+
+    - Succession planning challenges
+    - Knowledge transfer issues
+    - Potential increases in retirement and healthcare costs
+
+3. Significant Loss of Talent: With 89 employees leaving, Life Science may face challenges in replacing critical skills and expertise.
+
+4. Potential Impact on Innovation: High attrition rates in Life Science can hinder research and development, impacting the organization's competitive edge.
+
+### Recommendations:
+
+1. Investigate reasons for attrition (e.g., exit interviews, surveys)
+2. Develop targeted retention strategies (e.g., training, mentorship, benefits)
+3. Implement succession planning and knowledge transfer programs
+4. Monitor and address potential skill gaps
+5. Foster a culture of innovation and collaboration to attract and retain top talent
+
+
+
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/37b842446a69f09af0016ae5a3add595a75a3cf6/IMG-20241103-WA0005.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/3e201eafce6f9728d4210d7e4ece2e27457ca112/IMG-20241103-WA0006.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/16b5101f6207859f4be9e974d7028d794c1b8e74/IMG-20241103-WA0007.jpg)
