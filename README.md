@@ -641,8 +641,9 @@ Inferences:
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/016cb3fcfe07b57ddb679191923a9828f03ddf50/IMG-20241103-WA0014.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/2d7bf8b54d859e7e95d036e6895e747e0cca68be/IMG-20241103-WA0016.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/ef28e8156c3ea7d90d7401dbbf33dcbaa2006394/IMG-20241103-WA0015.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/d1b488525004aef72918d274ba8e77783ad46df4/IMG-20241103-WA0018.jpg
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/2dac668446c2425c0871cdf008d526d920e7b9d9/IMG-20241103-WA0021.jpg))
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/d1b488525004aef72918d274ba8e77783ad46df4/IMG-20241103-WA0018.jpg)
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/2dac668446c2425c0871cdf008d526d920e7b9d9/IMG-20241103-WA0021.jpg)
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/6b485c65cc3002332eacec5ba9a3f2582b2d8cb5/IMG-20241103-WA0034_1.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/17f6d800be94ca3e0adb5c094eff7a623395f993/IMG-20241101-WA0018.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/882e96fa973823b2360176f5ed2163a9ac331240/IMG-20241101-WA0019.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/b3eeca6b0da9e10fa66e4d3cbff00794efaf18d5/IMG-20241101-WA0021.jpg)
