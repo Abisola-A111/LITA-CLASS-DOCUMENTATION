@@ -358,13 +358,7 @@ Effectively utilized SQL arithmetic functions (SUM, AVG, MAX, MIN)  as well as r
  ![image alt]( https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/77b7a7b92412c721a4fafb6654307ac080f50592/IMG-20241022-WA0012.jpg)
  ![image alt](  https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/7463a59a937aa0ab2f172397e79a980e39c466b6/IMG-20241022-WA0013.jpg)
 
-### sql
- ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/b348e7bee4645dfa112c37f3cdad8cf329ba8f6c/IMG-20241101-WA0000.jpg)
-![image alt]( https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/129cbb6f1a7de5e25d5391b3684b8e4ff7904e75/IMG-20241101-WA0001.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/bb5bcbd83d6802129d880102cad396f6c33de041/IMG-20241101-WA0003.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/dce59a94d8f3d1a1f02ecd7feb543a427fdc0000/IMG-20241101-WA0005.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/e5041f2ff841f54cf19afdfa8fcf5edeab16c87d/IMG-20241101-WA0006.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/77e9eaef4d98c22585b141e47ab99d9b791050a3/IMG-20241101-WA0008.jpg)
+
 
 ### customer data
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/61f4794197b5eef67a28a548d36c4f852634ead7/IMG-20241101-WA0009.jpg)
