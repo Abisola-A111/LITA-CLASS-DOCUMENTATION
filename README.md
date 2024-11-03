@@ -362,16 +362,18 @@ Effectively utilized SQL arithmetic functions (SUM, AVG, MAX, MIN)  as well as r
  # POWER BI
  ## Analysis on HR DATA
 
-## Title: Employee Attrition Analysis and Insights
+## Title: Employee Attrition Analysis
 ## Introduction
 Employee attrition is a significant concern for organizations, as it can lead to substantial costs, disruptions, and loss of talent. Understanding the factors contributing to attrition is crucial for developing effective retention strategies. This project aims to analyze employee attrition trends within an organization, identifying key drivers and demographics most impacted.
 
 ## Project Overview
 This project will provide valuable insights to inform organizational decisions, improve employee retention, and reduce turnover costs.
 
-## Objective: To investigate employee attrition patterns, identify areas of concern, and provide data-driven recommendations for improving retention.
+## Objective:
+To investigate employee attrition patterns, identify areas of concern, and provide data-driven recommendations for improving retention.
 
-## Scope:This project focuses on analyzing employee data from [Organization Name], covering various departments, job roles, genders, age bands, and educational fields.
+## Scope:
+This project focuses on analyzing employee data from [LITA], covering various departments, job roles, genders, age bands, and educational fields.
 
 ## Key Research Questions:
 
@@ -387,7 +389,7 @@ This project will provide valuable insights to inform organizational decisions, 
 3. Inferential analysis: Identify correlations and patterns between variables.
 4. Recommendations: Develop targeted retention strategies based on findings.
 
-##vExpected Outcomes:
+## Expected Outcomes:
 1. Comprehensive understanding of employee attrition trends.
 2. Identification of key drivers and demographics most impacted.
 3. Data-driven recommendations for improving retention.
@@ -414,7 +416,7 @@ This project will provide valuable insights to inform organizational decisions, 
 4. Impact on Productivity: High attrition rates can disrupt team dynamics, reduce morale, and decrease productivity.
 5. Potential Skill Gap: The loss of experienced employees may lead to skill gaps, particularly if departing employees hold critical knowledge or expertise.
 
-### Recommendations: The folllowing recomendation will hrlp the company to retain its employee
+### Recommendations: The folllowing recomendation will help the company to retain its employee
 
 1. Investigating reasons for attrition (e.g., exit interviews, surveys)
 2. Developing targeted retention strategies (e.g., training, mentorship, benefits)
@@ -425,6 +427,35 @@ This project will provide valuable insights to inform organizational decisions, 
 
 
 ![image alt]( https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/ac9383ac924fecf93edc92e3479675f98cc143f8/IMG-20241103-WA0003.jpg)
+
+# Filter data from Human Resources:
+##3 Key Statistics:_
+- Total Employees: 27
+- Attrition Count: 7
+- Current Employees: 20
+- Attrition Rate: 26%
+- Average Age: 37
+
+## Inferences:
+1. Aging Workforce_: The average age of 37 suggests an aging workforce, which may lead to:
+
+    - Succession planning challenges
+    - Knowledge transfer issues
+    - Potential increases in retirement and healthcare costs
+
+2. Limited Talent Pool: With a small team size (27), Human Resources may face challenges in finding suitable replacements for departed employees.
+
+3. Potential Skill Gap: The loss of 7 employees may lead to skill gaps, particularly if departing employees held critical knowledge or expertise.
+
+## Recommendations:
+
+1. Investigate reasons for attrition (e.g., exit interviews, surveys)
+2. Develop targeted retention strategies (e.g., training, mentorship, benefits)
+3. Implement succession planning and knowledge transfer programs
+4. Monitor and address potential skill gaps
+5. Consider diversity and inclusion initiatives to attract a broader talent pool
+
+
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/52b96077fcb95165b8eb214a05625a5941a272c1/IMG-20241103-WA0004.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/37b842446a69f09af0016ae5a3add595a75a3cf6/IMG-20241103-WA0005.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/3e201eafce6f9728d4210d7e4ece2e27457ca112/IMG-20241103-WA0006.jpg)
