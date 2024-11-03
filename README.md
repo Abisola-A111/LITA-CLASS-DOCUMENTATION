@@ -321,11 +321,43 @@ Ekiti, Abia, Bayelsa, Akwa Ibom, and Kogi's high revenue suggests they are econo
 
 •	Urban vs. Rural: Mix of urban (Ajaokuta, Ankpa) and rural (Arochukwu, Ekiti East) stores suggests a balanced market approach.
 
-### SQL DOCUMENTATION
+# SQL DOCUMENTATION
+## My SQL Database Creation Journey
+I recently acquired hands-on experience in creating a database using SQL, a fundamental skill for data management and analysis. Through a combination of training , practice exercises, and dedication, I successfully designed and implemented a fully functional database.
+
+## Learning Process
+My journey began with understanding the basics of SQL, including data types(varchar, nvarchar, int, tinyint and the like),tables, and relationships.
+I focused on mastering essential SQL concepts, including:
+- Creating and managing databases
+- Designing tables and schemas
+- Inserting, updating, and deleting data
+- Querying data using SELECT statements
+- Joining tables and subqueries
+
+  ## Table Creation
+I was able to successfully designed and creat a database table(Employee Table)using SQL, laying the foundation for data storage and management.
+
  ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/4a9754017298fb7999b333e529a1763a24c86288/IMG-20241022-WA0007.jpg)
+
+##   Data Insertion
+I  Efficiently inserted data into the table, populating it with relevant information for analysis and querying.( StaffID, First name, Second name, gender, data of birth, Hiredate.)
+
  ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/b440a14692d436a67a64f3b3ee6d3aca0c2a779c/IMG-20241022-WA0008.jpg)
+
+ ## Table Deletion
+I demonstrated ability to remove unnecessary data structures, maintaining database organization and optimizing storage.
+
  ![image alt]( https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/3681fdc91da052c6bffbcd2c45d24b9440288e34/IMG-20241022-WA0010.jpg)
+
+ ## Data Update
+ Showcased ability to modify existing data, ensuring data accuracy and freshness.
+
  ![image alt]( https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/1d38c0a8f79ad523c927ef25a3e0ac45bfe94897/IMG-20241022-WA0011.jpg)
+
+##  Arithmetic Functions
+Effectively utilized SQL arithmetic functions (SUM, AVG, MAX, MIN) to extract valuable insights and summarize data.
+
+
  ![image alt]( https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/77b7a7b92412c721a4fafb6654307ac080f50592/IMG-20241022-WA0012.jpg)
  ![image alt](  https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/7463a59a937aa0ab2f172397e79a980e39c466b6/IMG-20241022-WA0013.jpg)
  ![image alt]( https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/f6a11440e3b4e58f541c674d652e2f7765ae6848/IMG-20241022-WA0018.jpg)
