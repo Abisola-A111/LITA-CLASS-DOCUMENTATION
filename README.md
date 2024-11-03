@@ -344,24 +344,19 @@ I  Efficiently inserted data into the table, populating it with relevant informa
 
  ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/b440a14692d436a67a64f3b3ee6d3aca0c2a779c/IMG-20241022-WA0008.jpg)
 
- ## Table Deletion
+ ##  Data Update
 I demonstrated ability to remove unnecessary data structures, maintaining database organization and optimizing storage.
 
  ![image alt]( https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/3681fdc91da052c6bffbcd2c45d24b9440288e34/IMG-20241022-WA0010.jpg)
 
- ## Data Update
- Showcased ability to modify existing data, ensuring data accuracy and freshness.
+ ## Arithmetic Functions
+Effectively utilized SQL arithmetic functions (SUM, AVG, MAX, MIN)  as well as range and relational operators to extract valuable insights and summarize data
 
  ![image alt]( https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/1d38c0a8f79ad523c927ef25a3e0ac45bfe94897/IMG-20241022-WA0011.jpg)
-
-##  Arithmetic Functions
-Effectively utilized SQL arithmetic functions (SUM, AVG, MAX, MIN) to extract valuable insights and summarize data.
-
+   ![image alt]( https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/f6a11440e3b4e58f541c674d652e2f7765ae6848/IMG-20241022-WA0018.jpg)
 
  ![image alt]( https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/77b7a7b92412c721a4fafb6654307ac080f50592/IMG-20241022-WA0012.jpg)
  ![image alt](  https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/7463a59a937aa0ab2f172397e79a980e39c466b6/IMG-20241022-WA0013.jpg)
- ![image alt]( https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/f6a11440e3b4e58f541c674d652e2f7765ae6848/IMG-20241022-WA0018.jpg)
-
 
 ### sql
  ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/b348e7bee4645dfa112c37f3cdad8cf329ba8f6c/IMG-20241101-WA0000.jpg)
