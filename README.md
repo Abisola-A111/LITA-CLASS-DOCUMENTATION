@@ -619,7 +619,9 @@ Inferences:
 2. Developing targeted retention strategies (e.g., training, mentorship, benefits)
 3. Implementing succession planning and knowledge transfer programs
 4. Monitoring and addressing potential skill gaps
-5. Analyzing demographics to identify patterns in attrition (e.g., age, department, job role)
+5. Analyzing demographics to identify patterns in attrition (e.g., age, department, job role).
+
+   
 
 
 
@@ -635,6 +637,7 @@ Inferences:
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/b5da07468937e0a1c7c19636ba7e93caa5439a20/IMG-20241101-WA0017.jpg)
 
 ### SALES DATA
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/40b57a1c34bd98f13fe10d5bf8f44b8483417724/IMG-20241103-WA0013.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/17f6d800be94ca3e0adb5c094eff7a623395f993/IMG-20241101-WA0018.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/882e96fa973823b2360176f5ed2163a9ac331240/IMG-20241101-WA0019.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/b3eeca6b0da9e10fa66e4d3cbff00794efaf18d5/IMG-20241101-WA0021.jpg)
