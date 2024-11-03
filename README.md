@@ -359,6 +359,11 @@ Effectively utilized SQL arithmetic functions (SUM, AVG, MAX, MIN)  as well as r
  ![image alt](  https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/7463a59a937aa0ab2f172397e79a980e39c466b6/IMG-20241022-WA0013.jpg)
 
 
+ # POWER BI
+ ## Analysis on HR DATA
+![image alt]( https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/ac9383ac924fecf93edc92e3479675f98cc143f8/IMG-20241103-WA0003.jpg)
+
+
 
 ### customer data
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/61f4794197b5eef67a28a548d36c4f852634ead7/IMG-20241101-WA0009.jpg)
