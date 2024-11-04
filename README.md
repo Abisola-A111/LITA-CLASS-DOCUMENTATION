@@ -626,7 +626,10 @@ Inferences:
 
 
 
-### customer data
+# customer data
+## Introduction
+This sales analysis report examines the performance of six products (shoes, shirts, hats, gloves, jackets, and socks) across four regions (East, West, North, and South). The report aims to identify key trends, opportunities, and challenges to inform business decisions and drive growth.
+
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/84573c58bc63ce32637720892319cac8199069ca/IMG-20241103-WA0043.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/b80fdb06345e72c93e740753578986a25f1555c1/IMG-20241103-WA0044.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/f1cf9e8c92fcfc514d3549b46dd7829bbc34ef7d/IMG-20241103-WA0045.jpg) 
