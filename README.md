@@ -629,7 +629,8 @@ Inferences:
 ### customer data
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/84573c58bc63ce32637720892319cac8199069ca/IMG-20241103-WA0043.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/b80fdb06345e72c93e740753578986a25f1555c1/IMG-20241103-WA0044.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/f1cf9e8c92fcfc514d3549b46dd7829bbc34ef7d/IMG-20241103-WA0045.jpg)
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/f1cf9e8c92fcfc514d3549b46dd7829bbc34ef7d/IMG-20241103-WA0045.jpg) ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/1aa2279a815236ee7887b3b96d1fa8901fcd573a/IMG-20241103-WA0046.jpg)
+
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/172d857655a4be1746c8edb6364bafea3dba4010/IMG-20241103-WA0022.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/380addef3e2ad267a849c0a3bf3466199601aa12/IMG-20241103-WA0023.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/0581b2297ab9a156a92d18dc6557c4f58ecaa592/IMG-20241103-WA0024.jpg)
