@@ -633,6 +633,7 @@ Inferences:
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/1aa2279a815236ee7887b3b96d1fa8901fcd573a/IMG-20241103-WA0046.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/46a8bee4d0abedcef8619ccafc3337d1f966fc28/IMG-20241103-WA0047.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/2f8dc853504afa228cf07dae3d445467e62cab4f/IMG-20241103-WA0048.jpg)
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/29c92ae8c85e5cf5762b0b2fc22c2a79cb8bb50d/IMG-20241103-WA0049.jpg)
 
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/172d857655a4be1746c8edb6364bafea3dba4010/IMG-20241103-WA0022.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/380addef3e2ad267a849c0a3bf3466199601aa12/IMG-20241103-WA0023.jpg)
