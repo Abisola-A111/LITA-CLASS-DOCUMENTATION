@@ -855,11 +855,33 @@ Market Opportunities:
 3. Develop targeted marketing campaigns for North and East regions.
 
 
-
+## SQL Sale Analysis
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/17f6d800be94ca3e0adb5c094eff7a623395f993/IMG-20241101-WA0018.jpg)
+### Sales Category Analysis
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/882e96fa973823b2360176f5ed2163a9ac331240/IMG-20241101-WA0019.jpg)
+### Key Findings:
+1. High sales category: #1,907,785 (91% of total sales)
+2. Medium sales category: #85,880 (9% of total sales)
+3. Low sales category: #7,425 (<1% of total sales)
+
+### Insights and Implications:
+1. Dominant High-Value Sales: Majority of revenue comes from high-ticket items or premium products.
+2. Significant Medium Sales: Medium sales category contributes a notable share, indicating a strong mid-range market.
+3. Negligible Low Sales: Minimal revenue from low-value sales suggests limited demand or competitive pressure.
+
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/b3eeca6b0da9e10fa66e4d3cbff00794efaf18d5/IMG-20241101-WA0021.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/2d7c542a2c8130a1372b7cbf8a09974a74a48718/IMG-20241101-WA0022.jpg)
+### Key Findings:
+1. East: #2,483 (25.4% of total sales)
+2. North: #2,481 (25.3% of total sales)
+3. South: #2,440 (24.9% of total sales)
+4. West: #2,477 (25.4% of total sales)
+
+### Insights and Implications:
+1. Balanced Regional Performance: Sales are relatively evenly distributed across regions.
+2. Minimal Regional Variance: Less than 1% difference between highest and lowest performing regions.
+3. No Regional Weaknesses: All regions demonstrate strong sales performance.
+
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/0a9104f3478825bfe8e38246325382e6a41ce539/IMG-20241101-WA0023.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/61f1ced9c84ef70a88ac71a6b70d2e015e6b0fa0/IMG-20241101-WA0024.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/7f25b6c8fb00ebaac9f4a0fef02bdb4ad355c8e4/IMG-20241101-WA0025.jpg)
@@ -881,18 +903,8 @@ Market Opportunities:
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/db59734cafc10fdd7dad4ce661e85e0e0b7e96f2/IMG-20241103-WA0052.jpg)
 
 
-## SQL  Analysis
-## Sales Category Analysis
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/172d857655a4be1746c8edb6364bafea3dba4010/IMG-20241103-WA0022.jpg)
-### Key Findings:
-1. High sales category: #1,907,785 (91% of total sales)
-2. Medium sales category: #85,880 (9% of total sales)
-3. Low sales category: #7,425 (<1% of total sales)
 
-### Insights and Implications:
-1. Dominant High-Value Sales: Majority of revenue comes from high-ticket items or premium products.
-2. Significant Medium Sales: Medium sales category contributes a notable share, indicating a strong mid-range market.
-3. Negligible Low Sales: Minimal revenue from low-value sales suggests limited demand or competitive pressure.
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/172d857655a4be1746c8edb6364bafea3dba4010/IMG-20241103-WA0022.jpg)
 
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/380addef3e2ad267a849c0a3bf3466199601aa12/IMG-20241103-WA0023.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/0581b2297ab9a156a92d18dc6557c4f58ecaa592/IMG-20241103-WA0024.jpg)
