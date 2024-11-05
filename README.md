@@ -8,7 +8,7 @@ Documentations of my project at the incubator-hub
 
 [SQL DOCUMENTATION](#sql-documentation)
 
-[CAPSTONE PROJECT 1](#captstone-project-1)
+[CAPSTONE PROJECT 1](#capstone-project-1)
 
 [CAPSTONE PROJECT 2](#capstone-project-2)
 
