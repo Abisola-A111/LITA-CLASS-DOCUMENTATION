@@ -960,6 +960,20 @@ This report analyzes customer subscription data to identify trends, patterns, an
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/172d857655a4be1746c8edb6364bafea3dba4010/IMG-20241103-WA0022.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/84573c58bc63ce32637720892319cac8199069ca/IMG-20241103-WA0043.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/b1e86711032e7a237a6e00db5c3598d6dc83b423/IMG-20241103-WA0051.jpg)
+## Average Subscription Duration Analysis
+## Key Findings:
+- Average Subscription Duration (Days)
+    - Basic: 365.298803
+    - Premium: 365.404262
+    - Standard: 365.401662
+    - Grand Total: 365.3498387
+
+### Insights and Implications:
+1. Consistent Average Duration: Similar average subscription durations across Basic, Premium, and Standard plans (~365 days).
+2. Uniform Customer Retention: Comparable average durations suggest consistent customer retention rates.
+3. Annual Subscription Cycle: Average durations approximate 1 year, indicating annual subscription renewals.
+
+
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/2f8dc853504afa228cf07dae3d445467e62cab4f/IMG-20241103-WA0048.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/b80fdb06345e72c93e740753578986a25f1555c1/IMG-20241103-WA0044.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/db59734cafc10fdd7dad4ce661e85e0e0b7e96f2/IMG-20241103-WA0052.jpg)
