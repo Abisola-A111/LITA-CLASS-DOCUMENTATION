@@ -8,7 +8,7 @@ Documentations of my project at the incubator-hub
 
 [SQL DOCUMENTATION](#sql-documentation)
 
-[CAPSTONE PROJECT:SALES DATA](#captstone-project-sales-data)
+[CAPSTONE PROJECT:SALES DATA](#captstone-project-:-sales-data)
 
 [CAPSTONE PROJECT:CUSTOMERS DATA](#capstone-project-customers-data)
 
