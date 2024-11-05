@@ -1008,10 +1008,58 @@ Insights and Implications:
 3. Pricing Strategy Review: Evaluate pricing elasticity to optimize revenue.
 
 
-### Canceled
+## Cancelled Subscription Analysis by Plan and Duration
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/f1cf9e8c92fcfc514d3549b46dd7829bbc34ef7d/IMG-20241103-WA0045.jpg) 
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/bb7f5e2fcd94ed886af2cadc7b26aecfd066c7e3/IMG-20241103-WA0050.jpg)
+
+### Key Findings:
+
+### Basic Plan
+
+- False: 4,330,076
+- True: 1,851,145
+- Total: 6,181,221 
+
+### Premium Plan
+
+- False: 1,237,812
+- True: 1,848,360
+- Total: 3,086,172
+
+### Standard Plan
+
+- False: 1,232,240
+- True: 1,844,442
+- Total: 3,076,682
+
+Grand Total: 12,344,075
+
+### Insights and Implications:
+
+1. High Cancellation Rates: Significant cancelled subscriptions across plans.
+2. Basic Plan Cancellations: Highest total cancelled subscriptions.
+3. Similar Cancellation Patterns: Comparable cancellation durations for Premium and Standard plans.
+4. False Cancellations Dominance: Higher cancellation durations for False vs. True.
+
+### Recommendations:
+1. Enhance Customer Retention Strategies: Focus on False cancellation segments.
+2. Plan Optimization: Refine plans based on cancellation insights
+
+### Revenue by Region Analysis
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/29c92ae8c85e5cf5762b0b2fc22c2a79cb8bb50d/IMG-20241103-WA0049.jpg)
+
+Key Findings:
+- East: #16,958,763
+- South: #16,899,064
+- West: #16,864,376
+- North: #16,817,972
+- Grand Total: #67,540,175
+
+Insights and Implications:
+1. Regional Parity: Similar revenue figures across regions.
+2. Balanced Market Presence: Consistent revenue suggests well-distributed customer base.
+3. No Regional Disparities: Minimal revenue differences indicate effective market penetration.
+
 
 
 
