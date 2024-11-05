@@ -957,8 +957,10 @@ By implementing these strategies, the business can capitalize on emerging opport
 ## customer's data
 ### Introduction
 This report analyzes customer subscription data to identify trends, patterns, and insights that inform business decisions. The analysis covers subscription duration, cancellation rates, revenue, and regional variations. By examining these metrics, we aim to enhance customer retention, optimize marketing strategies, and drive revenue growth.
-## Average Subscription Duration Analysis
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/172d857655a4be1746c8edb6364bafea3dba4010/IMG-20241103-WA0022.jpg)
+ ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/46a8bee4d0abedcef8619ccafc3337d1f966fc28/IMG-20241103-WA0047.jpg)
+
+## Average Subscription Duration Analysis
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/84573c58bc63ce32637720892319cac8199069ca/IMG-20241103-WA0043.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/b1e86711032e7a237a6e00db5c3598d6dc83b423/IMG-20241103-WA0051.jpg)
 
@@ -1060,9 +1062,7 @@ Insights and Implications:
 2. Balanced Market Presence: Consistent revenue suggests well-distributed customer base.
 3. No Regional Disparities: Minimal revenue differences indicate effective market penetration.
 
-  ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/46a8bee4d0abedcef8619ccafc3337d1f966fc28/IMG-20241103-WA0047.jpg)
-
-
+ 
 
 
 
