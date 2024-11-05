@@ -613,7 +613,8 @@ Inferences:
     - Leadership development
     - Innovation capacity
 
-     ### Recommendations: The folllowing recomendation will help the company to retain its employee
+
+ ### Recommendations: The folllowing recomendation will help the company to retain its employee
 
 1. Investigating reasons for attrition (e.g., exit interviews, surveys)
 2. Developing targeted retention strategies (e.g., training, mentorship, benefits)
@@ -748,7 +749,7 @@ Market Opportunities:
 2. Develop targeted marketing campaigns for North and East regions.
 
 ## Filtered for Gloves Sales Analysis
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/2d7bf8b54d859e7e95d036e6895e747e0cca68be/IMG-20241103-WA0016.jpg)
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/016cb3fcfe07b57ddb679191923a9828f03ddf50/IMG-20241103-WA0014.jpg)
 ### Product Performance
 1. Total Revenue: #296,900
 2.  Unit Price: 34,635
@@ -771,8 +772,7 @@ Market Opportunities:
 4. Competitive Analysis: Research competitors' glove offerings and pricing strategies.
 
 ## Filtered for Jacket Sales Analysis
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/016cb3fcfe07b57ddb679191923a9828f03ddf50/IMG-20241103-WA0014.jpg)
-
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/2d7bf8b54d859e7e95d036e6895e747e0cca68be/IMG-20241103-WA0016.jpg)
 ### Product Performance Highlights:
 - Total Sales: #208,230
 - Sum Unit Price: #62,025 
