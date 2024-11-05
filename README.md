@@ -963,18 +963,15 @@ This report analyzes customer subscription data to identify trends, patterns, an
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/2f8dc853504afa228cf07dae3d445467e62cab4f/IMG-20241103-WA0048.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/b80fdb06345e72c93e740753578986a25f1555c1/IMG-20241103-WA0044.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/db59734cafc10fdd7dad4ce661e85e0e0b7e96f2/IMG-20241103-WA0052.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/1aa2279a815236ee7887b3b96d1fa8901fcd573a/IMG-20241103-WA0046.jpg)
-
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/f1cf9e8c92fcfc514d3549b46dd7829bbc34ef7d/IMG-20241103-WA0045.jpg) 
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/bb7f5e2fcd94ed886af2cadc7b26aecfd066c7e3/IMG-20241103-WA0050.jpg)
-
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/29c92ae8c85e5cf5762b0b2fc22c2a79cb8bb50d/IMG-20241103-WA0049.jpg)
 
 
 
 
 
-
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/172d857655a4be1746c8edb6364bafea3dba4010/IMG-20241103-WA0022.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/380addef3e2ad267a849c0a3bf3466199601aa12/IMG-20241103-WA0023.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/0581b2297ab9a156a92d18dc6557c4f58ecaa592/IMG-20241103-WA0024.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/6f2752ff80301d37988701e5485909861996cb5c/IMG-20241103-WA0025.jpg)
