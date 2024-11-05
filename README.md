@@ -1115,7 +1115,28 @@ East Region
 
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/6b977bdce88a854cacdc8d10ec33d700dfda198b/IMG-20241103-WA0030.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/266676412c55ab910caeff3739dc3254cc3bafe9/IMG-20241103-WA0031.jpg)
+
+### Subscription Cancellation Analysis by Subscription Type ( Basic)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/68bc002c3fb1374cf50d271f3a87656eb56b1610/IMG-20241103-WA0032.jpg)
+
+1. Q1: High
+2. Q2: Drop
+3. Q3: Increase
+4. Q4: Decrease
+
+2024 (up to Q3):
+
+1. Q1: Increase
+2. Q2: Decrease
+3. Q3: Decrease
+
+### Insights and Implications:
+1. Volatile Subscription Trends: Fluctuations in subscription duration across quarters.
+2. Seasonal Patterns: Possible seasonal influences on subscription duration.
+3. Decreasing Trend in 2024: Q2 and Q3 decreases suggest potential retention issues.
+4. Inconsistent Growth: 2024 Q1 increase, followed by decreases, indicates uncertainty.
+
+
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/9e3d68409b01a53144803f06c4761f9974ada5d8/IMG-20241103-WA0033.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/61f4794197b5eef67a28a548d36c4f852634ead7/IMG-20241101-WA0009.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/aa11f689c975761282b64ad4d75b1c99faa06d6b/IMG-20241101-WA0010.jpg)
