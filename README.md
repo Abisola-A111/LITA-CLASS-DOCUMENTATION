@@ -1070,10 +1070,46 @@ Insights and Implications:
 
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/172d857655a4be1746c8edb6364bafea3dba4010/IMG-20241103-WA0022.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/380addef3e2ad267a849c0a3bf3466199601aa12/IMG-20241103-WA0023.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/6f2752ff80301d37988701e5485909861996cb5c/IMG-20241103-WA0025.jpg)
+### East Region
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/6f2752ff80301d37988701e5485909861996cb5c/IMG-20241103-WA0025.jpg
+
+- Subscription Duration: 310.1468
+- Inference: The East region has a relatively shorter subscription duration compared to other regions. This may indicate:
+    - Higher customer churn rates.
+    - Lower customer loyalty.
+    - Opportunities for targeted retention strategies.
+
+
+### West Region
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/e23f3b12d88fb87d4b79cbafc364dedb6f380131/IMG-20241103-WA0026.jpg)
+- Subscription Duration: 307.6682
+- Inference: The West region has a moderate subscription duration. This suggests:
+    - Stable customer base.
+    - Effective retention strategies.
+    - Potential for growth with targeted marketing.
+
+### North Region
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/d56e6abc197fb4c891672889b18c5ee540a103b9/IMG-20241103-WA0027.jpg)
+- Subscription Duration: 307.9735
+- Inference: The North region has a slightly higher subscription duration than the West. This may indicate:
+    - Stronger customer relationships.
+    - Effective customer engagement.
+    - Opportunities for upselling/cross-selling
+
+    
+ ### South Region
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/00b9671afc3c62cdc8e5d0fb146c5468d9b9b818/IMG-20241103-WA0028.jpg)
+- Subscription Duration: 308.6172
+- Inference: The South region has the highest subscription duration. This suggests:
+    - Highest customer loyalty.
+    - Effective retention strategies.
+    - Potential for revenue growth.
+
+### Regional Comparison
+
+- The South region has the highest subscription duration, indicating strong customer relationships.
+- The East region has the shortest duration, requiring targeted retention efforts.
+- The West and North regions have moderate durations, suggesting stable customer bases.
 
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/6b977bdce88a854cacdc8d10ec33d700dfda198b/IMG-20241103-WA0030.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/266676412c55ab910caeff3739dc3254cc3bafe9/IMG-20241103-WA0031.jpg)
