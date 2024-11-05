@@ -857,6 +857,7 @@ Market Opportunities:
 
 ## SQL Sale Analysis
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/17f6d800be94ca3e0adb5c094eff7a623395f993/IMG-20241101-WA0018.jpg)
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/0a9104f3478825bfe8e38246325382e6a41ce539/IMG-20241101-WA0023.jpg)
 ### Sales Category Analysis
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/882e96fa973823b2360176f5ed2163a9ac331240/IMG-20241101-WA0019.jpg)
 ### Key Findings:
@@ -870,7 +871,7 @@ Market Opportunities:
 3. Negligible Low Sales: Minimal revenue from low-value sales suggests limited demand or competitive pressure.
 
 ## Highest Selling Product Analysis
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/b3eeca6b0da9e10fa66e4d3cbff00794efaf18d5/IMG-20241101-WA0021.jpg)
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/2d7c542a2c8130a1372b7cbf8a09974a74a48718/IMG-20241101-WA0022.jpg)
 
 ### Key Finding:
 1. Shoes: #613,380 (highest selling product)
@@ -886,8 +887,7 @@ Recommendations:
 3. Inventory Management: Ensure optimal shoe inventory levels to meet customer demand.
 
 ## Regional Sales Analysis
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/0a9104f3478825bfe8e38246325382e6a41ce539/IMG-20241101-WA0023.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/2d7c542a2c8130a1372b7cbf8a09974a74a48718/IMG-20241101-WA0022.jpg)
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/b3eeca6b0da9e10fa66e4d3cbff00794efaf18d5/IMG-20241101-WA0021.jpg)
 ### Key Findings:
 1. East: #2,483 (25.4% of total sales)
 2. North: #2,481 (25.3% of total sales)
@@ -899,9 +899,34 @@ Recommendations:
 2. Minimal Regional Variance: Less than 1% difference between highest and lowest performing regions.
 3. No Regional Weaknesses: All regions demonstrate strong sales performance.
 
-
+## Percentage of Regional Sales
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/61f1ced9c84ef70a88ac71a6b70d2e015e6b0fa0/IMG-20241101-WA0024.jpg)
+### Key Findings:
+1. South: 44% of total sales
+2. East: 23% of total sales
+3. North: 18% of total sales
+4. West: 14% of total sales
+
+### Insights and Implications:
+1. Southern Dominance: The South region drives nearly half of total sales, indicating strong market presence.
+2. Eastern Opportunity: The East region's 23% share suggests potential for growth.
+3. Northern and Western Challenges: Lower sales percentages in North and West regions may indicate competitive or market penetration issues.
+
+### Recommendations:
+1. Strengthen Southern Presence: Continue targeted marketing and optimize operations.
+2. Expand Eastern Reach: Invest in marketing and sales efforts.
+3. Enhance Northern and Western Strategies: Analyze customer preferences, competitive landscape, and marketing effectiveness.
+
+## Product With No Sales in the Last Year
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/7f25b6c8fb00ebaac9f4a0fef02bdb4ad355c8e4/IMG-20241101-WA0025.jpg)
+### Key Finding:
+No products have zero sales in the last year.
+
+### Insights and Implications:
+1. Effective Product Portfolio: The business has successfully curated a product lineup that meets customer demand.
+2. Strong Market Relevance: All products are generating sales, indicating relevance to the target market.
+3. No Underperforming Products: Absence of zero-sales products suggests efficient inventory management.
+
 
 
 
