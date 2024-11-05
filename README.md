@@ -3,9 +3,13 @@ Documentations of my project at the incubator-hub
 
 ## Project Overview
 [Basics of Data Analysis](#basic-of-data-analysis)
+
 [Second LITA Class Documentation: Sales Data Analysis](#second-lita-class-documentation-sales-data-analysis)
+
 [SQL DOCUMENTATION](#sql-documentation)
+
 [CAPSTONE PROJECT:SALES DATA](#captstone-project-sales-data)
+
 [CAPSTONE PROJECT:CUSTOMERS DATA](#capstone-project-customers-data)
 
 
