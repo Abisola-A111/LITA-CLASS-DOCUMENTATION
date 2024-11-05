@@ -1232,7 +1232,7 @@ Key Insights:
 2. Value-Added Services: Offer additional services or features to differentiate premium and standard subscriptions.
 3. Customer Segmentation: Analyze customer demographics and behavior to tailor subscription offerings.
 
-### Total Subscriptions
+### Total Subscriptions( Active and Canceled)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/f1fd6b3a62c306dfd0659a539308be65e8893d9c/IMG-20241101-WA0016.jpg)
 Total Subscriptions:
 
