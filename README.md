@@ -881,7 +881,19 @@ Market Opportunities:
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/db59734cafc10fdd7dad4ce661e85e0e0b7e96f2/IMG-20241103-WA0052.jpg)
 
 
+## SQL  Analysis
+## Sales Category Analysis
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/172d857655a4be1746c8edb6364bafea3dba4010/IMG-20241103-WA0022.jpg)
+### Key Findings:
+1. High sales category: #1,907,785 (91% of total sales)
+2. Medium sales category: #85,880 (9% of total sales)
+3. Low sales category: #7,425 (<1% of total sales)
+
+### Insights and Implications:
+1. Dominant High-Value Sales: Majority of revenue comes from high-ticket items or premium products.
+2. Significant Medium Sales: Medium sales category contributes a notable share, indicating a strong mid-range market.
+3. Negligible Low Sales: Minimal revenue from low-value sales suggests limited demand or competitive pressure.
+
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/380addef3e2ad267a849c0a3bf3466199601aa12/IMG-20241103-WA0023.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/0581b2297ab9a156a92d18dc6557c4f58ecaa592/IMG-20241103-WA0024.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/6f2752ff80301d37988701e5485909861996cb5c/IMG-20241103-WA0025.jpg)
