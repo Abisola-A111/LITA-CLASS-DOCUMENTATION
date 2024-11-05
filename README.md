@@ -1207,7 +1207,22 @@ Key Insights:
 2. Geographic Variations: Cancellation rates vary significantly across regions, suggesting that localized strategies are necessary to address customer needs.
 3. South and West Regions: Although having lower cancellation rates, these regions still require attention to prevent further customer loss.
 
+
+## Subscription within 6 months
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/465dc40bd99cb289f7e82e02f96cbf948bd2d774/IMG-20241101-WA0012.jpg)
+Subscription within 6 months= 0
+
+### Key Insights:
+1. No Short-Term Subscriptions: No customers subscribed for less than 6 months.
+2. Long-Term Commitment: All customers committed to subscriptions lasting 6 months or more.
+3. No Trial or Short-Term Options: Absence of short-term subscriptions suggests no trial or flexible options.
+
+### Potential Implications:
+
+1. Confident Customer Base: Customers are confident in the service, committing to longer terms.
+2. Effective Sales Process: Sales process effectively communicates value, leading to long-term commitments.
+3. Limited Flexibility: Lack of short-term options may limit appeal to customers seeking flexibility.
+
 
 ## Total Subscription Revenue
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/6378d4c1d479517ca3b3868f90efbdd09eaacf76/IMG-20241101-WA0014.jpg)
