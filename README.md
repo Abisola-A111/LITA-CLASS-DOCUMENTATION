@@ -687,7 +687,7 @@ Analysis of the total sales data for 2023 and 2024 reveals:
 4. Explore sales stabilization strategies (e.g., loyalty programs, subscription services).
    
 ## Filtred for Shoes Sales Analysis
- ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/ef28e8156c3ea7d90d7401dbbf33dcbaa2006394/IMG-20241103-WA0015.jpg)
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/d1b488525004aef72918d274ba8e77783ad46df4/IMG-20241103-WA0018.jpg)
 
 ### Key Highlights:
 - Total Sales: #613,380
@@ -719,8 +719,7 @@ Market Opportunities:
 
 
 ## Filtered Shirt Sales Analysis
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/d1b488525004aef72918d274ba8e77783ad46df4/IMG-20241103-WA0018.jpg)
-
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/35b70b160271f4279a9e5d1804f0cddeb2eb534e/IMG-20241103-WA0017.jpg)
 ### Key Highlights:
 - Total Sales: #485,600
 - Sum of Unit Price: #54,520 
@@ -749,7 +748,7 @@ Market Opportunities:
 2. Develop targeted marketing campaigns for North and East regions.
 
 ## Filtered for Gloves Sales Analysis
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/35b70b160271f4279a9e5d1804f0cddeb2eb534e/IMG-20241103-WA0017.jpg)
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/2d7bf8b54d859e7e95d036e6895e747e0cca68be/IMG-20241103-WA0016.jpg)
 ### Product Performance
 1. Total Revenue: #296,900
 2.  Unit Price: 34,635
@@ -800,7 +799,7 @@ Market Opportunities:
 2. Develop targeted marketing campaigns for East and North regions.
    
 ## Filtered for Hat Sales Analysis
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/2d7bf8b54d859e7e95d036e6895e747e0cca68be/IMG-20241103-WA0016.jpg)
+ ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/ef28e8156c3ea7d90d7401dbbf33dcbaa2006394/IMG-20241103-WA0015.jpg)
 
 ### Key Highlights:
 - Total Sales: #316,195
@@ -824,11 +823,39 @@ Market Opportunities:
 3. Inventory Management: Ensure sufficient stock levels in East, West, and North regions.
 4. Competitive Analysis: Research competitors' hat offerings and pricing strategies.
 
+## Filtered for Socks Sales Analysis
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/166d78a2261af7ef82c7c1fcb017aed2e0e81e9c/IMG-20241103-WA0020.jpg)
+
+### Key Highlights:
+- Total Sales: #180,785
+- Sum of Unit Price: #27,215 
+- Sum of  Quantity Sold: 7,921
+
+### Regional Sales Breakdown:
+- South: Highest sale
+- West: Second-highest sales
+- North: Lowest sales
+- East: Second-lowest sales
+
+### Insights and Opportunities:
+
+1. Socks generate moderate revenue, with potential for growth.
+2. South and West regions drive sock sales, indicating strong market demand.
+3. Low average unit price suggests competitive pricing or budget-friendly options.
+
+### Market Opportunities:
+1. Regional Focus: Targeted marketing efforts in North and East regions to increase sales.
+2. Product Optimization: Introduce premium sock options or bundles to increase average unit price.
+3. Inventory Management: Ensure sufficient stock levels in South and West regions.
+4. Competitive Analysis: Research competitors' sock offerings and pricing strategies.
+
+### Actionable Recommendations:
+1. Analyze customer demographics and purchasing behaviors.
+2. Investigate seasonal fluctuations in sock sales.
+3. Develop targeted marketing campaigns for North and East regions.
 
 
 
-
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/d6bc4f07f7b2fdda3fc520cf80b3feff80bf155b/IMG-20241103-WA0042.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/17f6d800be94ca3e0adb5c094eff7a623395f993/IMG-20241101-WA0018.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/882e96fa973823b2360176f5ed2163a9ac331240/IMG-20241101-WA0019.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/b3eeca6b0da9e10fa66e4d3cbff00794efaf18d5/IMG-20241101-WA0021.jpg)
