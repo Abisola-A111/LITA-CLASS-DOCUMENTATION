@@ -1060,6 +1060,9 @@ Insights and Implications:
 2. Balanced Market Presence: Consistent revenue suggests well-distributed customer base.
 3. No Regional Disparities: Minimal revenue differences indicate effective market penetration.
 
+  ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/46a8bee4d0abedcef8619ccafc3337d1f966fc28/IMG-20241103-WA0047.jpg)
+
+
 
 
 
@@ -1067,12 +1070,10 @@ Insights and Implications:
 
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/172d857655a4be1746c8edb6364bafea3dba4010/IMG-20241103-WA0022.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/380addef3e2ad267a849c0a3bf3466199601aa12/IMG-20241103-WA0023.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/0581b2297ab9a156a92d18dc6557c4f58ecaa592/IMG-20241103-WA0024.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/6f2752ff80301d37988701e5485909861996cb5c/IMG-20241103-WA0025.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/e23f3b12d88fb87d4b79cbafc364dedb6f380131/IMG-20241103-WA0026.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/d56e6abc197fb4c891672889b18c5ee540a103b9/IMG-20241103-WA0027.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/00b9671afc3c62cdc8e5d0fb146c5468d9b9b818/IMG-20241103-WA0028.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/46a8bee4d0abedcef8619ccafc3337d1f966fc28/IMG-20241103-WA0047.jpg)
 
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/6b977bdce88a854cacdc8d10ec33d700dfda198b/IMG-20241103-WA0030.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/266676412c55ab910caeff3739dc3254cc3bafe9/IMG-20241103-WA0031.jpg)
