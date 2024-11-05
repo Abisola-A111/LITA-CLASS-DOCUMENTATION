@@ -869,7 +869,24 @@ Market Opportunities:
 2. Significant Medium Sales: Medium sales category contributes a notable share, indicating a strong mid-range market.
 3. Negligible Low Sales: Minimal revenue from low-value sales suggests limited demand or competitive pressure.
 
+## Highest Selling Product Analysis
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/b3eeca6b0da9e10fa66e4d3cbff00794efaf18d5/IMG-20241101-WA0021.jpg)
+
+### Key Finding:
+1. Shoes: #613,380 (highest selling product)
+
+### Insights and Implications:
+1. Dominant Product Category: Shoes drive significant revenue, indicating strong market demand.
+2. Competitive Advantage: Shoes may be a key differentiator, setting the business apart from competitors.
+3. Customer Preference: Shoes are likely a popular choice among customers, suggesting a well-curated product offering.
+
+Recommendations:
+1. Invest in Shoe Product Line: Expand and enhance shoe offerings to capitalize on demand.
+2. Targeted Marketing: Focus marketing efforts on shoe products to attract customers.
+3. Inventory Management: Ensure optimal shoe inventory levels to meet customer demand.
+
+## Regional Sales Analysis
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/0a9104f3478825bfe8e38246325382e6a41ce539/IMG-20241101-WA0023.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/2d7c542a2c8130a1372b7cbf8a09974a74a48718/IMG-20241101-WA0022.jpg)
 ### Key Findings:
 1. East: #2,483 (25.4% of total sales)
@@ -882,7 +899,7 @@ Market Opportunities:
 2. Minimal Regional Variance: Less than 1% difference between highest and lowest performing regions.
 3. No Regional Weaknesses: All regions demonstrate strong sales performance.
 
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/0a9104f3478825bfe8e38246325382e6a41ce539/IMG-20241101-WA0023.jpg)
+
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/61f1ced9c84ef70a88ac71a6b70d2e015e6b0fa0/IMG-20241101-WA0024.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/7f25b6c8fb00ebaac9f4a0fef02bdb4ad355c8e4/IMG-20241101-WA0025.jpg)
 
