@@ -621,14 +621,69 @@ Inferences:
 4. Monitoring and addressing potential skill gaps
 5. Analyzing demographics to identify patterns in attrition (e.g., age, department, job role).
 
-   
+
+   # CAPSTONE PROJECT:SALES DATA
+   ## Introduction
+This sales analysis report examines the performance of six products (shoes, shirts, hats, gloves, jackets, and socks) across four regions (East, West, North, and South). The report aims to identify key trends, opportunities, and challenges to inform business decisions and drive growth.
+
+
+## Inferences and Insights
+
+### Product Sales Performance
+1. Shoes are the top-selling product, accounting for 29% of total sales (#613,380).
+2. Shirts are the second-best selling product, contributing 23% to total sales (#485,600).
+3. Hats, gloves, jackets, and socks follow, with decreasing sales shares.
+
+### Regional Sales Performance
+1. The South region dominates sales, generating 43% of total revenue (#927,820).
+2. The East region accounts for 23% of sales (#485,925).
+3. The North and West regions contribute 18% and 16%, respectively.
+
+### Average Sales per Product
+1. Shirt have the highest average sales #326.56.
+2. Shoe follow, with an average sales value of #326.56.
+3. Gloves, hats, jackets, and socks have lower average sales.
+
+### Key Observations
+1. Shoes and shirts drive revenue, suggesting a strong demand for these products.
+2. Regional sales disparities indicate varying market conditions or customer preferences.
+3. Average sales values reveal opportunities for pricing adjustments or product optimization.
+
+### Influences and Recommendations
+1. Product Portfolio Optimization: Consider expanding shoe and shirt offerings or introducing complementary products.
+2. Regional Marketing Strategies: Tailor marketing efforts to address regional disparities and capture growing demand.
+3. Pricing Adjustments: Analyze pricing strategies for gloves, hats, jackets, and socks to boost average sales.
+4. Inventory Management: Ensure optimal inventory levels for top-selling products (shoes and shirts).
+
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/40b57a1c34bd98f13fe10d5bf8f44b8483417724/IMG-20241103-WA0013.jpg)
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/6b485c65cc3002332eacec5ba9a3f2582b2d8cb5/IMG-20241103-WA0034_1.jpg)
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/dcaa74158a6bf6e1480c399b5a2bc01a1c985be5/IMG-20241103-WA0035.jpg)
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/81bdb59ba835a7a18140453bf5080574b2bfa576/IMG-20241103-WA0037.jpg)
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/ad92c14ad198f551096a0beff1090645f42d5bd9/IMG-20241103-WA0036.jpg)
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/701b9bbabccd76c14c6ceba0e7a4ab331c500a11/IMG-20241103-WA0038.jpg)
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/35b70b160271f4279a9e5d1804f0cddeb2eb534e/IMG-20241103-WA0017.jpg)
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/016cb3fcfe07b57ddb679191923a9828f03ddf50/IMG-20241103-WA0014.jpg)
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/2d7bf8b54d859e7e95d036e6895e747e0cca68be/IMG-20241103-WA0016.jpg)
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/ef28e8156c3ea7d90d7401dbbf33dcbaa2006394/IMG-20241103-WA0015.jpg)
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/d1b488525004aef72918d274ba8e77783ad46df4/IMG-20241103-WA0018.jpg)
+
+
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/4bea61c87586bdcfa931ffd4c2f1d7ca0e0732a4/IMG-20241103-WA0040.jpg)
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/dc94f10d11ace9b57907c3005b04f158e9750ef4/IMG-20241103-WA0041.jpg)
+
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/d6bc4f07f7b2fdda3fc520cf80b3feff80bf155b/IMG-20241103-WA0042.jpg)
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/17f6d800be94ca3e0adb5c094eff7a623395f993/IMG-20241101-WA0018.jpg)
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/882e96fa973823b2360176f5ed2163a9ac331240/IMG-20241101-WA0019.jpg)
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/b3eeca6b0da9e10fa66e4d3cbff00794efaf18d5/IMG-20241101-WA0021.jpg)
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/2d7c542a2c8130a1372b7cbf8a09974a74a48718/IMG-20241101-WA0022.jpg)
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/0a9104f3478825bfe8e38246325382e6a41ce539/IMG-20241101-WA0023.jpg)
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/61f1ced9c84ef70a88ac71a6b70d2e015e6b0fa0/IMG-20241101-WA0024.jpg)
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/7f25b6c8fb00ebaac9f4a0fef02bdb4ad355c8e4/IMG-20241101-WA0025.jpg)
 
 
 
 
 # customer data
-## Introduction
-This sales analysis report examines the performance of six products (shoes, shirts, hats, gloves, jackets, and socks) across four regions (East, West, North, and South). The report aims to identify key trends, opportunities, and challenges to inform business decisions and drive growth.
 
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/84573c58bc63ce32637720892319cac8199069ca/IMG-20241103-WA0043.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/b80fdb06345e72c93e740753578986a25f1555c1/IMG-20241103-WA0044.jpg)
@@ -663,33 +718,4 @@ This sales analysis report examines the performance of six products (shoes, shir
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/181f67ecf327ed4553254878050f3550e2b91a2b/IMG-20241101-WA0014.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/f1fd6b3a62c306dfd0659a539308be65e8893d9c/IMG-20241101-WA0016.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/b5da07468937e0a1c7c19636ba7e93caa5439a20/IMG-20241101-WA0017.jpg)
-
-### SALES DATA
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/40b57a1c34bd98f13fe10d5bf8f44b8483417724/IMG-20241103-WA0013.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/016cb3fcfe07b57ddb679191923a9828f03ddf50/IMG-20241103-WA0014.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/2d7bf8b54d859e7e95d036e6895e747e0cca68be/IMG-20241103-WA0016.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/ef28e8156c3ea7d90d7401dbbf33dcbaa2006394/IMG-20241103-WA0015.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/d1b488525004aef72918d274ba8e77783ad46df4/IMG-20241103-WA0018.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/2dac668446c2425c0871cdf008d526d920e7b9d9/IMG-20241103-WA0021.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/6b485c65cc3002332eacec5ba9a3f2582b2d8cb5/IMG-20241103-WA0034_1.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/dcaa74158a6bf6e1480c399b5a2bc01a1c985be5/IMG-20241103-WA0035.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/81bdb59ba835a7a18140453bf5080574b2bfa576/IMG-20241103-WA0037.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/ad92c14ad198f551096a0beff1090645f42d5bd9/IMG-20241103-WA0036.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/701b9bbabccd76c14c6ceba0e7a4ab331c500a11/IMG-20241103-WA0038.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/4bea61c87586bdcfa931ffd4c2f1d7ca0e0732a4/IMG-20241103-WA0040.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/dc94f10d11ace9b57907c3005b04f158e9750ef4/IMG-20241103-WA0041.jpg)
-
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/d6bc4f07f7b2fdda3fc520cf80b3feff80bf155b/IMG-20241103-WA0042.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/17f6d800be94ca3e0adb5c094eff7a623395f993/IMG-20241101-WA0018.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/882e96fa973823b2360176f5ed2163a9ac331240/IMG-20241101-WA0019.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/b3eeca6b0da9e10fa66e4d3cbff00794efaf18d5/IMG-20241101-WA0021.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/2d7c542a2c8130a1372b7cbf8a09974a74a48718/IMG-20241101-WA0022.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/0a9104f3478825bfe8e38246325382e6a41ce539/IMG-20241101-WA0023.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/61f1ced9c84ef70a88ac71a6b70d2e015e6b0fa0/IMG-20241101-WA0024.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/7f25b6c8fb00ebaac9f4a0fef02bdb4ad355c8e4/IMG-20241101-WA0025.jpg)
-
-
-
-
-
 
