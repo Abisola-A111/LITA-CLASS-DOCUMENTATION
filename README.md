@@ -641,7 +641,7 @@ This sales analysis report examines the performance of six products (shoes, shir
 
 ### Average Sales per Product
 1. Shirt have the highest average sales #326.56.
-2. Shoe follow, with an average sales value of #326.56.
+2. Shoe follow, with an average sales value of #308.70
 3. Gloves, hats, jackets, and socks have lower average sales.
 
 ### Key Observations
@@ -661,15 +661,38 @@ This sales analysis report examines the performance of six products (shoes, shir
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/81bdb59ba835a7a18140453bf5080574b2bfa576/IMG-20241103-WA0037.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/ad92c14ad198f551096a0beff1090645f42d5bd9/IMG-20241103-WA0036.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/701b9bbabccd76c14c6ceba0e7a4ab331c500a11/IMG-20241103-WA0038.jpg)
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/4bea61c87586bdcfa931ffd4c2f1d7ca0e0732a4/IMG-20241103-WA0040.jpg)
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/dc94f10d11ace9b57907c3005b04f158e9750ef4/IMG-20241103-WA0041.jpg)
+
+## Fluctuating Monthly Sales Pattern with Consistent February Peak
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/d1b488525004aef72918d274ba8e77783ad46df4/IMG-20241103-WA0018.jpg)
+Analysis of the total sales data for 2023 and 2024 reveals:
+1. Month-to-month sales fluctuations in both years, indicating unpredictable demand.
+2. No consistent sales pattern across most months, suggesting varied market conditions or customer behavior.
+3. Notable exception: February exhibits consistently high sales in both years.
+
+### Insights and Implications
+1. Seasonal Demand: February's consistent high sales may be driven by seasonal factors (e.g., Valentine's Day, winter clearance sales).
+2. Marketing Opportunities: Leverage February's momentum with targeted promotions, increasing marketing efforts, and optimizing inventory.
+3. Demand Volatility: Develop strategies to mitigate fluctuations, such as:
+    - Diversifying product offerings.
+    - Enhancing customer engagement.
+    - Improving supply chain resilience.
+4. Predictive Analytics: Consider implementing advanced analytics to better forecast sales trends and optimize business decisions.
+
+### Recommendations:
+
+1. Investigate factors driving February's high sales (e.g., holidays, events).
+2. Analyze customer purchasing behavior and preferences.
+3. Develop targeted marketing campaigns for February.
+4. Explore sales stabilization strategies (e.g., loyalty programs, subscription services).
+
+
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/35b70b160271f4279a9e5d1804f0cddeb2eb534e/IMG-20241103-WA0017.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/016cb3fcfe07b57ddb679191923a9828f03ddf50/IMG-20241103-WA0014.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/2d7bf8b54d859e7e95d036e6895e747e0cca68be/IMG-20241103-WA0016.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/ef28e8156c3ea7d90d7401dbbf33dcbaa2006394/IMG-20241103-WA0015.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/d1b488525004aef72918d274ba8e77783ad46df4/IMG-20241103-WA0018.jpg)
 
-
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/4bea61c87586bdcfa931ffd4c2f1d7ca0e0732a4/IMG-20241103-WA0040.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/dc94f10d11ace9b57907c3005b04f158e9750ef4/IMG-20241103-WA0041.jpg)
 
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/d6bc4f07f7b2fdda3fc520cf80b3feff80bf155b/IMG-20241103-WA0042.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/17f6d800be94ca3e0adb5c094eff7a623395f993/IMG-20241101-WA0018.jpg)
