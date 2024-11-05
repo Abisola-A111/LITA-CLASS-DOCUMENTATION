@@ -1113,8 +1113,58 @@ East Region
 - The South region maintains a stable customer base.
 
 
+### Premium Subscription Duration Trend Analysis (2023-2024)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/6b977bdce88a854cacdc8d10ec33d700dfda198b/IMG-20241103-WA0030.jpg)
+
+2023:
+
+1. Q1: High
+2. Q2: Average
+3. Q3: Average
+4. Q4: High
+
+2024 (up to Q2):
+
+1. Q1: Low
+2. Q2: High
+
+### Insights and Implications:
+1. Fluctuating Premium Demand: Variable subscription duration across quarters.
+2. Strong Start and End: High duration in Q1 and Q4 (2023) suggests loyal customer base.
+3. Mid-Year Slump: Average duration in Q2 and Q3 (2023) may indicate summer slowdown.
+4. Rebound in Q4 (2023): High duration suggests effective year-end retention strategies.
+5. Weak Start to 2024: Low duration in Q1 indicates potential retention issues.
+6. Quick Recovery: High duration in Q2 (2024) suggests effective countermeasures.
+
+### Recommendations:
+1. Seasonal Marketing Strategies: Target summer slowdown with promotions.
+2. Retention Efforts: Enhance year-round retention initiatives.
+3. Quarterly Review: Regularly assess subscription trends.
+
+
+### Standard Subscription Trend Analysis (2023-2024)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/266676412c55ab910caeff3739dc3254cc3bafe9/IMG-20241103-WA0031.jpg)
+2023:
+1. Q2: Low
+2. Q3: Slight Increase
+3. Q4: Significant Increase
+
+2024 (up to Q3):
+1. Q2: Maintained Previous High
+2. Q3: Great Increase
+
+### Insights and Implications:
+1. Recovery and Growth: Standard subscription trend recovered from Q2 2023 low.
+2. Momentum Build-up: Continuous growth from Q3 2023 to Q3 2024.
+3. Sustained Performance: Q2 2024 maintained previous quarter's high.
+4. Accelerated Growth: Q3 2024 showed significant increase.
+
+### Recommendations:
+1. Maintain Momentum: Continue strategies driving growth.
+2. Enhance Customer Engagement: Foster loyalty and retention.
+3. Monitor Market Trends: Stay adaptable to changing market conditions.
+4. Targeted Marketing: Focus on high-growth segments.
+
 
 ### Subscription Cancellation Analysis by Subscription Type ( Basic)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/68bc002c3fb1374cf50d271f3a87656eb56b1610/IMG-20241103-WA0032.jpg)
@@ -1137,7 +1187,7 @@ East Region
 4. Inconsistent Growth: 2024 Q1 increase, followed by decreases, indicates uncertainty.
 
 
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/9e3d68409b01a53144803f06c4761f9974ada5d8/IMG-20241103-WA0033.jpg)
+
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/61f4794197b5eef67a28a548d36c4f852634ead7/IMG-20241101-WA0009.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/aa11f689c975761282b64ad4d75b1c99faa06d6b/IMG-20241101-WA0010.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/465dc40bd99cb289f7e82e02f96cbf948bd2d774/IMG-20241101-WA0012.jpg)
