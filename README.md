@@ -8,9 +8,9 @@ Documentations of my project at the incubator-hub
 
 [SQL DOCUMENTATION](#sql-documentation)
 
-[CAPSTONE PROJECT:SALES DATA](#captstone-project-:-sales-data)
+[CAPSTONE PROJECT 1](#captstone-project-1)
 
-[CAPSTONE PROJECT:CUSTOMERS DATA](#capstone-project-customers-data)
+[CAPSTONE PROJECT 2](#capstone-project-2)
 
 
 
@@ -629,7 +629,8 @@ Inferences:
 5. Analyzing demographics to identify patterns in attrition (e.g., age, department, job role).
 
 
-   # CAPSTONE PROJECT:SALES DATA
+   # CAPSTONE PROJECT 1
+   ## SALES DATA
    ## Introduction
 This sales analysis report examines the performance of six products (shoes, shirts, hats, gloves, jackets, and socks) across four regions (East, West, North, and South). The report aims to identify key trends, opportunities, and challenges to inform business decisions and drive growth.
 
@@ -936,8 +937,8 @@ No products have zero sales in the last year.
 
 
 
-
-# customer data
+# CAPSTONE PROJECT 2
+## customer data
 
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/84573c58bc63ce32637720892319cac8199069ca/IMG-20241103-WA0043.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/b80fdb06345e72c93e740753578986a25f1555c1/IMG-20241103-WA0044.jpg)
