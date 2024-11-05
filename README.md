@@ -3,12 +3,14 @@ Documentations of my project at the incubator-hub
 
 ## Project Overview
 [Basics of Data Analysis](#basic-of-data-analysis)
+[Second LITA Class Documentation: Sales Data Analysis](#second-lita-class-documentation-sales-data-analysis)
+[SQL DOCUMENTATION](#sql-documentation)
+[CAPSTONE PROJECT:SALES DATA](#captstone-project-sales-data)
+[CAPSTONE PROJECT:CUSTOMERS DATA](#capstone-project-customers-data)
 
-[Second LITA Class Documentation](#second-lita-class-documentation)
 
-[Sales Data Analysis](#sales-data-analysis)
 
-[Data Visualization and inferences](#data-visualization-and-inferences)
+
 
 
 
@@ -227,9 +229,9 @@ ETL Process:
     - Data warehouse
     - Cloud storage.
  
-# Second LITA Class Documentation
 
-## Project Title: Sales Data Analysis
+
+## Second LITA Class Documentation: Sales Data Analysis
 
 
 #### Project Overview:
@@ -855,7 +857,7 @@ Market Opportunities:
 3. Develop targeted marketing campaigns for North and East regions.
 
 
-## SQL Sale Analysis
+## SQL Sales Analysis
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/17f6d800be94ca3e0adb5c094eff7a623395f993/IMG-20241101-WA0018.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/0a9104f3478825bfe8e38246325382e6a41ce539/IMG-20241101-WA0023.jpg)
 ### Sales Category Analysis
