@@ -990,7 +990,7 @@ Insights and Implications:
 3. Tiered Pricing Effectiveness: Distinct revenue streams from each plan.
 
 
-### Popular Subscription Analysis
+### Most Popular Subscription Analysis
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/b80fdb06345e72c93e740753578986a25f1555c1/IMG-20241103-WA0044.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/db59734cafc10fdd7dad4ce661e85e0e0b7e96f2/IMG-20241103-WA0052.jpg)
 
@@ -1010,7 +1010,7 @@ Insights and Implications:
 3. Pricing Strategy Review: Evaluate pricing elasticity to optimize revenue.
 
 
-## Cancelled Subscription Analysis by Plan and Duration
+## Canceled Subscription Analysis 
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/f1cf9e8c92fcfc514d3549b46dd7829bbc34ef7d/IMG-20241103-WA0045.jpg) 
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/bb7f5e2fcd94ed886af2cadc7b26aecfd066c7e3/IMG-20241103-WA0050.jpg)
 
@@ -1073,43 +1073,45 @@ Insights and Implications:
 ### East Region
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/6f2752ff80301d37988701e5485909861996cb5c/IMG-20241103-WA0025.jpg
 
+East Region
 - Subscription Duration: 310.1468
-- Inference: The East region has a relatively shorter subscription duration compared to other regions. This may indicate:
-    - Higher customer churn rates.
-    - Lower customer loyalty.
-    - Opportunities for targeted retention strategies.
+- Inference: The East region has the highest subscription duration. This suggests:
+    - Strongest customer relationships.
+    - Effective customer engagement.
+    - Opportunities for upselling/cross-selling.
+
 
 
 ### West Region
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/e23f3b12d88fb87d4b79cbafc364dedb6f380131/IMG-20241103-WA0026.jpg)
 - Subscription Duration: 307.6682
-- Inference: The West region has a moderate subscription duration. This suggests:
-    - Stable customer base.
-    - Effective retention strategies.
-    - Potential for growth with targeted marketing.
+- Inference: The West region has a relatively shorter subscription duration. This may indicate:
+    - Higher customer churn rates.
+    - Lower customer loyalty.
+    - Opportunities for targeted retention strategies.
 
 ### North Region
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/d56e6abc197fb4c891672889b18c5ee540a103b9/IMG-20241103-WA0027.jpg)
 - Subscription Duration: 307.9735
-- Inference: The North region has a slightly higher subscription duration than the West. This may indicate:
-    - Stronger customer relationships.
-    - Effective customer engagement.
-    - Opportunities for upselling/cross-selling
+- Inference: The North region has a similar subscription duration to the West. This suggests:
+    - Stable customer base.
+    - Room for improvement in customer engagement.
+
 
     
  ### South Region
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/00b9671afc3c62cdc8e5d0fb146c5468d9b9b818/IMG-20241103-WA0028.jpg)
 - Subscription Duration: 308.6172
-- Inference: The South region has the highest subscription duration. This suggests:
-    - Highest customer loyalty.
+- Inference: The South region has a moderate subscription duration. This indicates:
+    - Balanced customer relationships.
     - Effective retention strategies.
-    - Potential for revenue growth.
+    - Potential for growth.
 
 ### Regional Comparison
+- The East region leads in subscription duration, showcasing strong customer relationships.
+- The West and North regions require targeted retention efforts.
+- The South region maintains a stable customer base.
 
-- The South region has the highest subscription duration, indicating strong customer relationships.
-- The East region has the shortest duration, requiring targeted retention efforts.
-- The West and North regions have moderate durations, suggesting stable customer bases.
 
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/6b977bdce88a854cacdc8d10ec33d700dfda198b/IMG-20241103-WA0030.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/266676412c55ab910caeff3739dc3254cc3bafe9/IMG-20241103-WA0031.jpg)
