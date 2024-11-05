@@ -12,6 +12,8 @@ Documentations of my project at the incubator-hub
 
 [CAPSTONE PROJECT 2](#capstone-project-2)
 
+[POWER BI DOCUMENTATION](#power-bi-documentation)
+
 
 
 
@@ -365,7 +367,7 @@ Effectively utilized SQL arithmetic functions (SUM, AVG, MAX, MIN)  as well as r
  ![image alt](  https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/7463a59a937aa0ab2f172397e79a980e39c466b6/IMG-20241022-WA0013.jpg)
 
 
- # POWER BI
+ # POWER BI DOCUMENTATION
  ## Analysis on HR DATA
 
 ## Title: Employee Attrition Analysis
@@ -1071,7 +1073,7 @@ Insights and Implications:
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/172d857655a4be1746c8edb6364bafea3dba4010/IMG-20241103-WA0022.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/380addef3e2ad267a849c0a3bf3466199601aa12/IMG-20241103-WA0023.jpg)
 ### East Region
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/6f2752ff80301d37988701e5485909861996cb5c/IMG-20241103-WA0025.jpg
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/6f2752ff80301d37988701e5485909861996cb5c/IMG-20241103-WA0025.jpg)
 
 East Region
 - Subscription Duration: 310.1468
@@ -1187,13 +1189,115 @@ East Region
 4. Inconsistent Growth: 2024 Q1 increase, followed by decreases, indicates uncertainty.
 
 
-
+# SQL ANALYSIS
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/61f4794197b5eef67a28a548d36c4f852634ead7/IMG-20241101-WA0009.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/aa11f689c975761282b64ad4d75b1c99faa06d6b/IMG-20241101-WA0010.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/465dc40bd99cb289f7e82e02f96cbf948bd2d774/IMG-20241101-WA0012.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/cd541f8bfcb0ce8264bf8e00c0022f2b1666a779/IMG-20241101-WA0012.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/6378d4c1d479517ca3b3868f90efbdd09eaacf76/IMG-20241101-WA0014.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/181f67ecf327ed4553254878050f3550e2b91a2b/IMG-20241101-WA0014.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/f1fd6b3a62c306dfd0659a539308be65e8893d9c/IMG-20241101-WA0016.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/b5da07468937e0a1c7c19636ba7e93caa5439a20/IMG-20241101-WA0017.jpg)
 
+### Top 3 Regions by Cancellation
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/aa11f689c975761282b64ad4d75b1c99faa06d6b/IMG-20241101-WA0010.jpg)
+Based on the customer data analysis, we observe:
+Top 3 Regions by Cancellation:
+1. North (highest cancellation rate)
+2. South
+3. West
+
+Key Insights:
+1. Regional Cancellation Patterns: The North region has the highest cancellation rate, indicating potential issues with customer satisfaction, service quality, or competition.
+2. Geographic Variations: Cancellation rates vary significantly across regions, suggesting that localized strategies are necessary to address customer needs.
+3. South and West Regions: Although having lower cancellation rates, these regions still require attention to prevent further customer loss.
+
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/465dc40bd99cb289f7e82e02f96cbf948bd2d774/IMG-20241101-WA0012.jpg)
+
+## Total Subscription Revenue
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/6378d4c1d479517ca3b3868f90efbdd09eaacf76/IMG-20241101-WA0014.jpg)
+
+### Total Subscription Revenue
+1. Basic: #33,776,735 (1st)
+2. Premium: #16,899,064 (2nd)
+3. Standard: #16,864,376 (3rd)
+
+### Key Insights:
+1. _Basic Subscription Dominance_: The basic subscription generates significantly more revenue (67.5% of total) than premium and standard combined.
+2. _Premium and Standard Parity_: Premium and standard subscriptions have similar revenue figures, indicating comparable customer demand.
+3. _Revenue Concentration_: The top two subscription types (Basic and Premium) account for 81.5% of total revenue.
+
+### Potential Reasons:
+1. Pricing Strategy: Basic subscription's affordability attracts a larger customer base.
+2. Value Perception: Customers perceive basic subscription as providing sufficient value.
+3. Market Saturation: Premium and standard subscriptions may be reaching market saturation.
+
+### Recommendations:
+1. Pricing Review: Evaluate pricing strategy to optimize revenue and customer acquisition.
+2. Value-Added Services: Offer additional services or features to differentiate premium and standard subscriptions.
+3. Customer Segmentation: Analyze customer demographics and behavior to tailor subscription offerings.
+
+### Total Subscriptions
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/f1fd6b3a62c306dfd0659a539308be65e8893d9c/IMG-20241101-WA0016.jpg)
+Total Subscriptions:
+
+- Active Subscriptions: 18,612 (54.5% of total)
+- Cancelled Subscriptions: 15,175 (45.5% of total)
+
+Key Insights:
+1. High Churn Rate: The cancelled subscription rate (45.5%) indicates a significant customer turnover.
+2. Active Subscription Base: Despite cancellations, the active subscription base remains substantial (54.5%).
+3. Growth Potential: The large cancelled subscription pool presents opportunities for re-engagement strategies.
+
+Potential Reasons for Cancellations:
+1. Poor customer service
+2. Lack of engagement or value
+3. Competitor offerings
+4. Pricing issues
+5. Technical problems
+
+Recommendations:
+1. Customer Retention Analysis: Investigate reasons for cancellations and develop targeted retention strategies.
+2. Re-engagement Campaigns: Design win-back campaigns for cancelled subscribers.
+3. Customer Feedback: Collect feedback from cancelled subscribers to improve services.
+4. Service Enhancement: Address technical issues and improve overall customer experience.
+5. Competitor Analysis: Monitor competitor offerings and adjust strategies accordingly.
+
+
+## Total Customers by Region
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/b5da07468937e0a1c7c19636ba7e93caa5439a20/IMG-20241101-WA0017.jpg)
+### Total Customers by Region:
+
+1. East: 8,488 (21.4% of total)
+2. South: 8,446 (21.3% of total)
+3. North: 8,433 (21.2% of total)
+4. West: 8,420 (21.1% of total)
+
+### Key Insights:
+
+1. Regional Parity: Customer distribution is remarkably even across regions, indicating a well-established national presence.
+2. Minimal Regional Variations: Less than 1% difference in customer numbers between regions.
+3. No Dominant Regio_: No single region overwhelmingly dominates the customer base.
+
+### Potential Implications:
+
+1. National Appeal: Products/services have broad appeal across regions.
+2. Consistent Marketing Efforts: Marketing strategies effective across regions.
+3. Geographic Stability: Customer base stability across regions.
+
+### Recommendations:
+1. Regional Segmentation: Refine marketing strategies to address regional nuances.
+2. Targeted Campaigns: Develop region-specific campaigns to capitalize on local trends.
+3. Customer Feedback: Collect regional customer feedback to enhance services.
+4. Resource Allocation: Allocate resources efficiently across regions.
+
+
+## Summary
+Key findings from the analysis include:
+- Basic subscription plans dominate, with 618,122 subscribers.
+- Premium and Standard plans show similar cancellation rates.
+- Regional subscription durations vary, with the South region having the highest duration.
+- Revenue distribution is relatively even across regions.
+- Subscription duration trends fluctuate, with seasonal patterns evident.
+- Customer retention strategies are crucial, particularly for the East region.
+
+## Conclusion
+This analysis provides valuable insights into customer behavior, preferences, and regional differences. By leveraging these findings, the company can:
+
+- Refine subscription plans and pricing strategies.
+- Enhance customer retention and engagement initiatives.
+- Optimize regional marketing efforts.
+- Improve revenue growth and stability.
