@@ -661,11 +661,10 @@ This sales analysis report examines the performance of six products (shoes, shir
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/81bdb59ba835a7a18140453bf5080574b2bfa576/IMG-20241103-WA0037.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/ad92c14ad198f551096a0beff1090645f42d5bd9/IMG-20241103-WA0036.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/701b9bbabccd76c14c6ceba0e7a4ab331c500a11/IMG-20241103-WA0038.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/4bea61c87586bdcfa931ffd4c2f1d7ca0e0732a4/IMG-20241103-WA0040.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/dc94f10d11ace9b57907c3005b04f158e9750ef4/IMG-20241103-WA0041.jpg)
 
 ## Fluctuating Monthly Sales Pattern with Consistent February Peak
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/d1b488525004aef72918d274ba8e77783ad46df4/IMG-20241103-WA0018.jpg)
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/4bea61c87586bdcfa931ffd4c2f1d7ca0e0732a4/IMG-20241103-WA0040.jpg)
 Analysis of the total sales data for 2023 and 2024 reveals:
 1. Month-to-month sales fluctuations in both years, indicating unpredictable demand.
 2. No consistent sales pattern across most months, suggesting varied market conditions or customer behavior.
@@ -686,12 +685,147 @@ Analysis of the total sales data for 2023 and 2024 reveals:
 2. Analyze customer purchasing behavior and preferences.
 3. Develop targeted marketing campaigns for February.
 4. Explore sales stabilization strategies (e.g., loyalty programs, subscription services).
+   
+## Filtred for Shoes Sales Analysis
+ ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/ef28e8156c3ea7d90d7401dbbf33dcbaa2006394/IMG-20241103-WA0015.jpg)
+
+### Key Highlights:
+- Total Sales: #613,380
+-Sum of Unit Price: #69,540
+- Sum of Quantity Sold: 14,420 
+
+### Regional Sales Breakdown:
+- South: Highest sales 
+- East: Second-highest sales
+- West: Third-highest sales
+- North: Lowest sales
+
+### Insights and Opportunities:
+1. Shoes are the top-selling product, driving significant revenue.
+2. South, East, and West regions dominate shoe sales, indicating strong market demand.
+3. Average unit price is relatively high, suggesting premium product offerings.
+
+Market Opportunities:
+1. Regional Focus: Targeted marketing efforts in South, East, and West regions.
+2. Product Line Expansion: Introduce new shoe styles, brands, or collections.
+3. Price Optimization: Analyze pricing strategies to maintain competitiveness.
+4. Inventory Management: Ensure sufficient stock levels in high-demand regions.
+
+### Actionable Recommendations:
+1. Conduct market research to identify emerging shoe trends.
+2. Analyze customer demographics and purchasing behaviors.
+3. Develop targeted marketing campaigns for South, East, and West regions.
 
 
+
+## Filtered Shirt Sales Analysis
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/d1b488525004aef72918d274ba8e77783ad46df4/IMG-20241103-WA0018.jpg)
+
+### Key Highlights:
+- Total Sales: #485,600
+- Sum of Unit Price: #54,520 
+-Sum of Quantity Sold: 12,388 
+
+### Regional Sales Breakdown:
+- South: Highest sales 
+- West: Second-highest sales
+- North: Lowest sales
+- East: Second-lowest sales
+
+### Insights and Opportunities:
+1. Shirts are the second-best selling product, generating significant revenue.
+2. South and West regions drive shirt sales, indicating strong market demand.
+3. North and East regions have relatively low sales, suggesting room for growth.
+
+### Market Opportunities:
+1. Regional Focus: Targeted marketing efforts in North and East regions to increase sales.
+2. Product Optimization: Analyze shirt designs, materials, and pricing to appeal to North and East region customers.
+3. Inventory Management: Adjust stock levels in North and East regions to match demand.
+4. Competitive Analysis: Research competitors' shirt offerings and pricing strategies in North and East regions.
+
+
+### Actionable Recommendations:
+1. Conduct market research to understand customer preferences in North and East regions.
+2. Develop targeted marketing campaigns for North and East regions.
+
+## Filtered for Gloves Sales Analysis
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/35b70b160271f4279a9e5d1804f0cddeb2eb534e/IMG-20241103-WA0017.jpg)
+### Product Performance
+1. Total Revenue: #296,900
+2.  Unit Price: 34,635
+3. Quantity Sold: 12,369 
+
+### Regional Sales
+1. South Highest sales 
+2. West Second-highest sales
+3. East and North: Lower sales
+
+### Key Observations
+1. Gloves generate significant revenue, but with a relatively low average unit price.
+2. West and South regions drive glove sales, indicating potential market demand or customer preferences.
+3. Quantity sold is substantial, suggesting a steady demand.
+
+### Recommendations
+1. Regional Focus: Targeted marketing efforts in West and South regions to capitalize on existing demand.
+2. Product Optimization: Consider premium glove options or bundles to increase average unit price.
+3. Inventory Management: Ensure sufficient stock levels in West and South regions.
+4. Competitive Analysis: Research competitors' glove offerings and pricing strategies.
+
+## Filtered for Jacket Sales Analysis
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/016cb3fcfe07b57ddb679191923a9828f03ddf50/IMG-20241103-WA0014.jpg)
+
+### Product Performance Highlights:
+- Total Sales: #208,230
+- Sum Unit Price: #62,025 
+- Sum Quantity Sold: 5,452 
+
+### Regional Sales Breakdown:
+- East: Highest sales 
+- North: Second-highest sales
+- South and West: Lower sales
+
+### Key Insights:
+1. Jackets generate significant revenue, with a moderate average unit price.
+2. East and North regions drive jacket sales, indicating potential market demand or customer preferences.
+3. Quantity sold is substantial, suggesting a steady demand.
+
+### Market Opportunities:
+1. Regional Focus: Targeted marketing efforts in East and North regions to capitalize on existing demand.
+2. Product Optimization: Consider premium jacket options or bundles to increase average unit price.
+3. Inventory Management: Ensure sufficient stock levels in East and North regions.
+4. Competitive Analysis: Research competitors' jacket offerings and pricing strategies.
+
+### Actionable Recommendations:
+1. Conduct customer surveys to understand jacket purchasing decisions.
+2. Develop targeted marketing campaigns for East and North regions.
+   
+## Filtered for Hat Sales Analysis
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/2d7bf8b54d859e7e95d036e6895e747e0cca68be/IMG-20241103-WA0016.jpg)
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/ef28e8156c3ea7d90d7401dbbf33dcbaa2006394/IMG-20241103-WA0015.jpg)
+
+### Key Highlights:
+- Total Sales: #316,195
+- Sum of Unit Price: #42,325 
+- Sum of Quantity Sold: 15,929 
+
+### Regional Sales Breakdown:
+- East: Highest sales 
+- West: Second-highest sales
+- North: Third-highest sales
+- South: Lowest sales
+
+### Insights and Opportunities:
+1. Hats generate moderate revenue, with potential for growth.
+2. East, West, and North regions drive hat sales, indicating strong market demand.
+3. Low average unit price suggests competitive pricing or budget-friendly options.
+
+### Market Opportunities:
+1. Regional Focus: Targeted marketing efforts in South region to increase sales.
+2. Product Optimization: Introduce premium hat options or bundles to increase average unit price.
+3. Inventory Management: Ensure sufficient stock levels in East, West, and North regions.
+4. Competitive Analysis: Research competitors' hat offerings and pricing strategies.
+
+
+
 
 
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/d6bc4f07f7b2fdda3fc520cf80b3feff80bf155b/IMG-20241103-WA0042.jpg)
