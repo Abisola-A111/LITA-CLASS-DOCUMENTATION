@@ -957,6 +957,7 @@ By implementing these strategies, the business can capitalize on emerging opport
 ## customer's data
 ### Introduction
 This report analyzes customer subscription data to identify trends, patterns, and insights that inform business decisions. The analysis covers subscription duration, cancellation rates, revenue, and regional variations. By examining these metrics, we aim to enhance customer retention, optimize marketing strategies, and drive revenue growth.
+![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/172d857655a4be1746c8edb6364bafea3dba4010/IMG-20241103-WA0022.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/84573c58bc63ce32637720892319cac8199069ca/IMG-20241103-WA0043.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/b80fdb06345e72c93e740753578986a25f1555c1/IMG-20241103-WA0044.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/f1cf9e8c92fcfc514d3549b46dd7829bbc34ef7d/IMG-20241103-WA0045.jpg) 
@@ -970,7 +971,6 @@ This report analyzes customer subscription data to identify trends, patterns, an
 
 
 
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/172d857655a4be1746c8edb6364bafea3dba4010/IMG-20241103-WA0022.jpg)
 
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/380addef3e2ad267a849c0a3bf3466199601aa12/IMG-20241103-WA0023.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/0581b2297ab9a156a92d18dc6557c4f58ecaa592/IMG-20241103-WA0024.jpg)
@@ -979,7 +979,6 @@ This report analyzes customer subscription data to identify trends, patterns, an
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/d56e6abc197fb4c891672889b18c5ee540a103b9/IMG-20241103-WA0027.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/00b9671afc3c62cdc8e5d0fb146c5468d9b9b818/IMG-20241103-WA0028.jpg)
 
-![image alt](https://github.com/Abisola-A111/LITA-CLASS-(DOCUMENTATION/blob/22ecad4340fc778341271ba68c56cce582cc5bd2/IMG-20241103-WA0029.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/6b977bdce88a854cacdc8d10ec33d700dfda198b/IMG-20241103-WA0030.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/266676412c55ab910caeff3739dc3254cc3bafe9/IMG-20241103-WA0031.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/68bc002c3fb1374cf50d271f3a87656eb56b1610/IMG-20241103-WA0032.jpg)
