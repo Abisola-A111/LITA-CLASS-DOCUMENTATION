@@ -973,9 +973,26 @@ This report analyzes customer subscription data to identify trends, patterns, an
 2. Uniform Customer Retention: Comparable average durations suggest consistent customer retention rates.
 3. Annual Subscription Cycle: Average durations approximate 1 year, indicating annual subscription renewals.
 
-
+### Popular Subscription Analysis
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/2f8dc853504afa228cf07dae3d445467e62cab4f/IMG-20241103-WA0048.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/b80fdb06345e72c93e740753578986a25f1555c1/IMG-20241103-WA0044.jpg)
+
+### Key Finding:
+- Basic Subscription: 618,122
+
+### Insights and Implications:
+
+1. Basic Plan Dominance: The Basic plan has the highest subscription count (618,122), indicating its popularity.
+2. Entry-Level Appeal: Basic plan's affordability and simplicity attract a large customer base.
+3. Mass Market Penetration: Widespread adoption of the Basic plan suggests effective market coverage.
+
+### Recommendations:
+
+1. Enhance Basic Plan Features: Consider adding value-added services to retain customers.
+2. Targeted Marketing: Focus on upselling/cross-selling to Basic plan subscribers.
+3. Pricing Strategy Review: Evaluate pricing elasticity to optimize revenue.
+
+
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/db59734cafc10fdd7dad4ce661e85e0e0b7e96f2/IMG-20241103-WA0052.jpg)
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/f1cf9e8c92fcfc514d3549b46dd7829bbc34ef7d/IMG-20241103-WA0045.jpg) 
 ![image alt](https://github.com/Abisola-A111/LITA-CLASS-DOCUMENTATION/blob/bb7f5e2fcd94ed886af2cadc7b26aecfd066c7e3/IMG-20241103-WA0050.jpg)
