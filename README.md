@@ -21,7 +21,6 @@ Documentations of my project at the incubator-hub
 
 
 
-
 # Basics of Data Analysis
 
 ### What is Data Literacy
